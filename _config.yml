@@ -3,7 +3,7 @@ name: 'Mundana'
 description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: "/IAFONT-mazinger"
+baseurl: "/IAFONT-mazinger6"
 url: "localhost:4000"
 # baseurl: '/mundana-theme-jekyll'
 disqus: 'demowebsite'
