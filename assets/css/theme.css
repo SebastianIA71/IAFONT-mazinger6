@@ -190,13 +190,31 @@ a.text-dark:hover {
 .navbar {
 	transition:top 0.2s ease-in-out;
 	font-weight:400;
+
+
+
 }
+
+
+.navbar-nav .nav-link {
+  border-bottom: 2px solid transparent;
+  transition: border-bottom 0.3s;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link.active {
+  border-bottom: 2px solid red;
+}
+
+
+
 .navbar .highlight .nav-link {
 	color:#03a87c !important;
 	border:1px solid #03a87c;
 	padding:0.3rem 0.1rem;
 	border-radius:3px;
 	font-size:.93rem;
+
 }
 .navbar .highlight .nav-link:hover {
 	background:#03a87c;
