@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hever clever in the lifer"
-author: jane
+author: iago
 categories: [ Jekyll, tutorial ]
 image: assets/images/11.jpg
 tags: [ia, sticky]
