@@ -280,6 +280,19 @@ a.text-dark:hover {
 .navbar-light .navbar-text a:hover,.navbar-light .navbar-text a:focus {
 	color:rgba(0,0,0,0.9);
 }
+
+.bd-search .form-control {
+	font-size: .85rem;
+	color: #999;
+	border: none;
+	border-bottom: 1px solid #eee;
+	border-radius: 0;
+	height: 35px;
+	outline: none;
+}
+/*
+
+
 .bd-search .form-control {
 	font-size:.85rem;
 	color:#999;
@@ -287,6 +300,8 @@ a.text-dark:hover {
 	height:35px;
 	border:1px solid #eee;
 }
+
+*/
 .mb-2rem {
 	margin-bottom:2rem;
 }
