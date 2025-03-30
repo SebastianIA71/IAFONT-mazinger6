@@ -454,6 +454,8 @@ pre {
     color: inherit;
     word-break: normal; }
 
+
+
 .pre-scrollable {
   max-height: 340px;
   overflow-y: scroll; }
@@ -8461,3 +8463,9 @@ html {
     align-self: baseline !important; }
   .align-self-xl-stretch {
     align-self: stretch !important; } }
+
+
+
+.bg-sticky {
+  background-color:#FFFFE0; /* cambia a cualquier color que te guste */
+}
