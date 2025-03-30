@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "sulvillancis iphone test must also train one for quick, resolute and effective thinking."
-author: iago
+author: IAgo
 categories: [ tutorial ]
 image: assets/images/11.jpg
 ---
