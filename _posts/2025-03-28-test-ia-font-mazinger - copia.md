@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Powerfu3444l things you can do with the Markdown editor"
-author: jane
+author: iago
 categories: [ Jekyll, tutorial ]
 image: assets/images/demo1.jpg
 tags: [ia, sticky]

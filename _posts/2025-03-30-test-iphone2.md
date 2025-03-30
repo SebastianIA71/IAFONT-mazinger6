@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "iphone test must also train one for quick, resolute and effective thinking."
+author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/9.jpg
 ---
