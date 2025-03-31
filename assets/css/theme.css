@@ -225,6 +225,11 @@ a.text-dark:hover {
 	font-size:1.55rem;
     font-family:"Georgia","Times New Roman",serif;
 }
+.navbar-brand-motto {
+	margin-right:2rem;
+	font-size:0.55rem;
+    font-family:"Georgia","Times New Roman",serif;
+}
 .dropdown-item {
 	font-weight:400;
 }
