@@ -191,8 +191,10 @@ a.text-dark:hover {
 	transition:top 0.2s ease-in-out;
 	font-weight:400;
 
+}
 
-
+.logo-img {
+    margin-left: 10px; /* Ajusta este valor según lo que necesites */
 }
 
 
