@@ -4,7 +4,7 @@ description: 'Mundana is a free Jekyll theme for awesome people like you, Medium
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: "/IAFONT-mazinger6"
-url: "https://sebastiania71.github.io"
+url: "localhost:4000"
 # baseurl: '/mundana-theme-jekyll'
 disqus: 'demowebsite'
 email: 'aaaa@gmail.com'

@@ -4,7 +4,7 @@ title:  "Hever clever in the lifer"
 author: IAgo
 categories: [ Jekyll, tutorial ]
 image: assets/images/11.jpg
-tags: [ia, sticky]
+tags: [ia]
 ---
 There are lots of powerful things you can do with the Markdown editor. If you've gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!
 
