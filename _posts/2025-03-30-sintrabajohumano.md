@@ -2,7 +2,7 @@
 layout: post
 title:  "¿Una sociedad sin trabajo humano?"
 author: Sebastian
-categories: [ Jekyll, tutorial ]
+categories: [ IA, Opinion ]
 image: assets/images/1015.jpg
 tags: [ia,featured]
 ---
