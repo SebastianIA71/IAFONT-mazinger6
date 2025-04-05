@@ -23,8 +23,11 @@ description: "Descrpción"
         <hr style="border-top: 1px solid #ccc; margin: 0.5rem 0;">
     </div>-->
 
-    <!-- latest post -->
-    {% assign latest_post = site.posts[0] %}
+
+<!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
+{% for post in site.posts %} 
+{% if post.tags contains "portada" %}
+   {% assign latest_post = post %}
     <div class="col-md-6">
     <div class="card border-0 mb-4 box-shadow">   
     <a href="{{site.baseurl}}{{latest_post.url}}">
@@ -46,8 +49,8 @@ description: "Descrpción"
                 |       
                 </span>                   
        <small class="text-muted">  {{ latest_post.date | date: '%b %d, %Y' }}  </small>
-					<small class="text-muted">
-                        <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/author-{{ latest_post.author }}.html"> | Por {{ latest_post.author }}</a>  <span class="sep"> </span>						
+                    <small class="text-muted">
+                        <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/author-{{ latest_post.author }}.html"> | Por {{ latest_post.author }}</a>  <span class="sep"> </span>                     
                     </small>
 
                         {% if latest_post.author == "IAgo"  %}
@@ -67,9 +70,15 @@ description: "Descrpción"
     </div>
     
     <div class="col-md-6">
+{% endif %}
+{% endfor %}
+
+
+    <!-- latest post -->
+ 
         
         <!-- second latest post -->
-        {%- assign second_post = site.posts[1] -%}        
+        {%- assign second_post = site.posts[0] -%}        
         <div class="mb-3 d-flex align-items-center">                
                 {% if second_post.image %}
                 <div class="col-md-4">
@@ -112,7 +121,7 @@ description: "Descrpción"
             </div>
         
         <!-- third latest post -->
-        {%- assign third_post = site.posts[2] -%}        
+        {%- assign third_post = site.posts[1] -%}        
         <div class="mb-3 d-flex align-items-center">                
                 {% if third_post.image %}
                 <div class="col-md-4">
@@ -154,7 +163,7 @@ description: "Descrpción"
             </div>
         
         <!-- fourth latest post -->
-        {%- assign fourth_post = site.posts[3] -%}        
+        {%- assign fourth_post = site.posts[2] -%}        
         <div class="mb-3 d-flex align-items-center">                
                 {% if fourth_post.image %}
                 <div class="col-md-4">
@@ -197,7 +206,7 @@ description: "Descrpción"
             </div>
 
         <!-- fifth latest post -->
-        {%- assign fifth_post = site.posts[4] -%}        
+        {%- assign fifth_post = site.posts[3] -%}        
         <div class="mb-3 d-flex align-items-center">                
                 {% if fifth_post.image %}
                 <div class="col-md-4">
@@ -277,7 +286,7 @@ description: "Descrpción"
         
 
         {% for post in paginator.posts %}
-            {% if post != site.posts[4] %}
+            {% if post != site.posts[3] %}
                 {% include main-loop-card.html %}
             {% endif %}
         {% endfor %}

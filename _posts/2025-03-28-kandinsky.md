@@ -4,7 +4,7 @@ title:  "Kandinsky y las imágenes por IA"
 author: Sebastian
 categories: [ IA, Opinion ]
 image: assets/images/1012.jpg
-tags: [ia,sticky]
+tags: [ia,portada]
 ---
 **Wassily Kandinsky**, pionero del arte abstracto, no fue simplemente un pintor, sino un filósofo del color y la forma. En su universo, el arte no era una copia del mundo exterior, sino una expresión del espíritu interior. Si Kandinsky viera hoy las imágenes generadas por inteligencia artificial (IA), como las que producen **DALL·E, Midjourney o Stable Diffusion**, seguramente quedaría fascinado… pero también escéptico.
 
