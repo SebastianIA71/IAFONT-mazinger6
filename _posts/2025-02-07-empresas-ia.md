@@ -3,7 +3,7 @@ layout: post
 title:  "Empresas, procrastinación y Google Cloud"
 author: Sebastian
 categories: [ Opinion, IA ]
-image: assets/images/1021.png
+image: assets/images/1021.jpg
 tags: [featured, ia]
 ---
 Las empresas, independientemente de su sector, enfrentan desafíos considerables al modernizarse con soluciones tecnológicas avanzadas como Google Cloud Platform (GCP). A menudo, las barreras no son técnicas, sino culturales y estructurales. Muchas organizaciones operan bajo procesos rígidos y una estructura jerárquica que, en ciertos casos, fomenta la procrastinación, el retraso en la toma de decisiones y la resistencia al cambio.
