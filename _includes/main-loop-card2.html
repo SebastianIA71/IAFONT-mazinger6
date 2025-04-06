@@ -1,0 +1,43 @@
+<div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+
+
+	<h2 class="mb-1 h6 font-weight-bold">
+	<a class="text-dark" href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a>
+	</h2>
+	<small class="text-muted">
+		{{ post.date | date: '%b %d, %Y' }}
+	</small>
+
+	
+					<small class="text-muted">
+                        <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/author-{{ post.author }}.html"> | Por {{ post.author }}</a>  <span class="sep"> </span>						
+                    </small>
+
+
+                    	{% if post.author == "IAgo"  %}
+                		<img alt="{{ site.authors.IAgo.name }}" src="{{site.baseurl}}/{{ site.authors.IAgo.avatar }}" class="rounded-circle" height="20" width="20">
+                		{% endif %}                
+                		{% if post.author == "Sebastian"  %}
+                		<img alt="{{ site.authors.Sebastian.name }}" src="{{site.baseurl}}/{{ site.authors.Sebastian.avatar }}" class="rounded-circle" height="20" width="20">
+                		{% endif %}  
+
+	<h2 class="mb-1 h6 font-weight-bold">
+	<a></a>
+	<a class="text-dark">Prompt para Freepik / ChatGPT:</a>
+	</h2>
+
+	<small class="text-muted">
+		{{ post.iarts}}
+	</small>
+
+
+</div>
+{% if post.image %}
+	<div class="col-md-8 pr-0 text-right">
+	<a href="{{site.baseurl}}{{post.url}}">
+	<img class="w-100" src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}" alt="{{ post.title }}">
+	</a>
+	</div>
+{% endif %}
+</div>

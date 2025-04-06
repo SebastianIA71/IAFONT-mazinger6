@@ -1,7 +1,7 @@
 ---
-title: "Tags"
+title: "Iarts"
 layout: default
-permalink: "/tags.html"
+permalink: "/iarts.html"
 ---
 
 <div class="container">
@@ -10,23 +10,21 @@ permalink: "/tags.html"
         <div class="col-md-12">
 
             
-        {% for tag in site.tags %} 
-                          {% if tag[0] == "iart" %}
-        <h4 class="font-weight-bold spanborder text-capitalize" id="{{ tag[0] | downcase }}"><span>{{ tag[0] }}</span></h4>
+        {% for iart in site.iarts %} 
+        <h4 class="font-weight-bold spanborder text-capitalize" id="{{ iart[0] | downcase }}"><span>{{ iart[0] }}</span></h4>
             
-        {% assign pages_list = tag[1] %}
+        {% assign pages_list = iart[1] %}
         {% for post in pages_list %}
         {% if post.title != null %}
           {% if group == null or group == post.group %}
-
-                    {% include main-loop-card2.html %}
-                 
+         
+            {% include main-loop-card2.html %}
           {% endif %}
         {% endif %}
         {% endfor %}
         {% assign pages_list = nil %}
         {% assign group = nil %}
-{% endif %}
+
         {% endfor %}
 
         </div>

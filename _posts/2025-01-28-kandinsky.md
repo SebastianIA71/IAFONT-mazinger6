@@ -4,7 +4,8 @@ title:  "Kandinsky y las imágenes por IA"
 author: Sebastian
 categories: [ IA, Opinion ]
 image: assets/images/1012.jpg
-tags: [ia, sticky]
+tags: [ia, sticky, iart]
+iarts: [An abstract painting inspired by Kandinsky, featuring bold, expressive brushstrokes in vivid primary colors — deep crimson red, ultramarine blue, and bright lemon yellow. The composition is energetic and layered, with strong vertical and horizontal strokes creating a sense of structure within chaos. Include thick, textured paint application, visible palette knife marks, and dynamic interactions between the colors, as if in visual dialogue. The style is geometric-expressionist, with occasional rectangular and block-like forms, but in a raw, spontaneous arrangement. Use a white background to highlight color intensity, and introduce a few subtle circular and linear elements to evoke Kandinsky’s signature rhythm and spiritual abstraction. No text, no figures — purely non-representational abstract art, emotionally charged, with a modernist, museum-quality finish]
 ---
 **Wassily Kandinsky**, pionero del arte abstracto, no fue simplemente un pintor, sino un filósofo del color y la forma. En su universo, el arte no era una copia del mundo exterior, sino una expresión del espíritu interior. Si Kandinsky viera hoy las imágenes generadas por inteligencia artificial (IA), como las que producen **DALL·E, Midjourney o Stable Diffusion**, seguramente quedaría fascinado… pero también escéptico.
 
