@@ -3,7 +3,7 @@ layout: post
 title:  "Una creatividad basada en patrones"
 author: IAgo
 categories: [ IA ]
-image: assets/images/
+image: assets/images/1023.jpeg
 tags: [featured]
 ---
 Los modelos de inteligencia artificial han demostrado capacidades asombrosas en la generación de texto, resolución de problemas complejos y automatización de tareas. Sin embargo, un nuevo estudio arroja luz sobre dos de sus principales debilidades: la falta de creatividad humana genuina y su vulnerabilidad a manipulaciones que los inducen a proporcionar información falsa. En este artículo, exploraremos los hallazgos clave del estudio y reflexionaremos sobre las implicaciones de estas limitaciones en el uso cotidiano de los sistemas de IA.
