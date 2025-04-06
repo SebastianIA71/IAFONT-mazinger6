@@ -1,27 +1,40 @@
 ---
 layout: post
-title:  "The first mass-produced book to deviate from a rectilinear format"
-author: sal
-categories: [ tutorial ]
-image: assets/images/demo1.jpg
+title:  "Ride AI en Los Ángeles, vehículos autónomos"
+author: Sebastian
+categories: [ IA ]
+image: assets/images/1024.jpeg
 tags: [featured]
 ---
-The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter. 
+Los Ángeles, conocida por su tráfico intenso y su vasta red vial, se ha convertido en un campo de pruebas ideal para la tecnología de vehículos autónomos. Una de las empresas que lidera esta carrera es Ride AI, una startup que busca transformar la manera en que nos desplazamos por la ciudad. Sin embargo, aunque los avances tecnológicos son notables, también lo son los desafíos que enfrenta esta industria en pleno desarrollo.
 
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll... originated with us”. 
+## La complejidad del entorno urbano
 
-> It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
+Los Ángeles presenta un entorno urbano complejo y diverso que desafía constantemente a los sistemas autónomos. La ciudad no solo tiene una densa red de autopistas, sino que también incluye calles estrechas, intersecciones complicadas y una variedad de condiciones climáticas que pueden dificultar el rendimiento de los sensores. Para Ride AI, esto significa que cada prueba requiere ajustes minuciosos en su software de navegación, así como en la calibración de cámaras y LIDAR.
 
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
+## Regulaciones y percepción pública
 
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
+Un aspecto crítico para Ride AI y otros competidores es la aceptación pública y el marco regulatorio. La tecnología puede avanzar rápidamente, pero si las leyes locales, estatales y federales no están alineadas, las operaciones pueden verse seriamente limitadas. Además, ganar la confianza del público no es una tarea fácil: muchos aún desconfían de los vehículos que se conducen solos, especialmente después de algunos incidentes mediáticos que involucraron a otras compañías del sector.
 
-To deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter. 
+### Competencia y colaboración en el ecosistema tecnológico
 
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll... originated with us”. 
+Ride AI no está sola en esta carrera. En Los Ángeles, muchas otras startups y grandes empresas tecnológicas están trabajando en soluciones autónomas. Esta competencia puede ser feroz, pero también fomenta la colaboración en áreas clave, como el intercambio de datos sobre seguridad vial y el desarrollo de estándares comunes. Ride AI ha empezado a participar en asociaciones locales y foros de discusión, buscando no solo superar los retos técnicos, sino también crear un ecosistema más cohesivo y confiable.
 
-> The claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
+#### El futuro de los vehículos autónomos en Los Ángeles
 
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
+A pesar de los desafíos, el panorama a largo plazo parece prometedor. Ride AI ha mostrado progresos en la integración de inteligencia artificial avanzada que mejora la detección de peatones, ciclistas y otros vehículos. Además, la compañía trabaja activamente con las autoridades locales para preparar el terreno hacia una implementación más amplia de sus servicios. Esto incluye no solo taxis autónomos, sino también soluciones de transporte de carga que podrían aliviar los problemas logísticos de la región.
 
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
+**Preguntas frecuentes (FAQs)**
+
+**1. ¿Qué hace a Los Ángeles un lugar clave para probar vehículos autónomos?**  
+Los Ángeles ofrece una mezcla única de densidad urbana, autopistas concurridas y diversidad en el diseño de calles. Esto proporciona un entorno variado que ayuda a las compañías como Ride AI a perfeccionar sus tecnologías en condiciones del mundo real.
+
+**2. ¿Cuáles son los principales desafíos técnicos que enfrenta Ride AI?**  
+Los mayores retos incluyen la calibración de sensores para manejar condiciones climáticas cambiantes, la navegación por intersecciones complejas y la integración de software de inteligencia artificial capaz de responder a situaciones impredecibles.
+
+**3. ¿Cómo están trabajando las empresas de vehículos autónomos con las autoridades locales?**  
+Ride AI, junto con otras compañías, participa en mesas redondas, asociaciones y proyectos piloto que buscan establecer regulaciones claras y prácticas, además de fomentar la aceptación pública a través de demostraciones y programas educativos.
+
+**Conclusión**
+
+Los esfuerzos de Ride AI en Los Ángeles ilustran tanto el potencial transformador como los retos inherentes de la conducción autónoma. Si bien todavía quedan barreras tecnológicas, regulatorias y sociales por superar, las empresas del sector, junto con las autoridades locales, continúan allanando el camino hacia un futuro en el que los vehículos autónomos sean una parte integral del transporte urbano. Por ahora, Los Ángeles sigue siendo un laboratorio vivo para la innovación, donde cada obstáculo superado acerca un poco más la promesa de un transporte más eficiente y seguro.
