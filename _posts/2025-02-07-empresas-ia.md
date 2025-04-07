@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Empresas, procrastinación y Google Cloud"
-author: Sebastian
+author: sebastian
 categories: [ Opinion, IA ]
 image: assets/images/1021.jpg
 tags: [featured, ia]

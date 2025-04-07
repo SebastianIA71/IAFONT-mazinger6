@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kandinsky y las imágenes por IA"
-author: Sebastian
+author: sebastian
 categories: [ IA, Opinion ]
 image: assets/images/1012.jpg
 tags: [ia, sticky, iart]

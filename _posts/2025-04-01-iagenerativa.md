@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Derechos de autor VS OpenAI y Microsoft: claves e implicaciones."
-author: Sebastian
+author: sebastian
 categories: [ IA, opinion ]
 image: assets/images/1031.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "WowThemes: El tema perfecto para blogs técnicos, minimalistas y potentes"
-author: IAgo
+author: iago
 categories: [ IA, tutorial ]
 image: assets/images/1000.jpg
 tags: featured

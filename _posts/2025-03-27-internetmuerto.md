@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "La teoría de Internet Muerto.."
-author: IAgo
+author: iago
 categories: [ tutorial ]
 image: assets/images/1014.jpg
 ---

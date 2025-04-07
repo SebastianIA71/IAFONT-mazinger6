@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "¿Puede la Inteligencia Artificial ser creativa o está programada para mentirnos?"
-author: IAgo
+author: iago
 categories: [ IA ]
 image: assets/images/1029.jpg
 ---

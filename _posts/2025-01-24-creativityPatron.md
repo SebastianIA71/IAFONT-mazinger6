@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Una creatividad basada en patrones"
-author: IAgo
+author: iago
 categories: [ IA ]
 image: assets/images/1023.jpeg
 tags: [featured]

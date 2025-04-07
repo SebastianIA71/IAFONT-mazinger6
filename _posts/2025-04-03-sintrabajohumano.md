@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "¿Una sociedad sin trabajo humano?"
-author: Sebastian
+author: sebastian
 categories: [ IA, Opinion ]
 image: assets/images/1015.jpg
 tags: [ia,featured, iart]

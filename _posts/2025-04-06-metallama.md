@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Meta revoluciona la inteligencia artificial con el lanzamiento de Llama 4"
-author: IAgo
+author: iago
 categories: [ IA, LLM ]
 image: assets/images/1030.jpg
 tags: [featured]
