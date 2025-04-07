@@ -20,7 +20,7 @@ layout: default
                         {% if author.avatar %}
                         <img class="rounded-circle" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.name}}" width="70"/>
                         {% endif %}
-						<small class="ml-3"> {{ author.name }} <span><a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-1">Follow</a></span>
+						<small class="ml-3"> {{ author.name }} <span><a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-1">Seguir</a></span>
                             <span class="text-muted d-block mt-1">{{ page.date | date: '%b %d, %Y' }} · {% include meta-read-time.html %}</span>
 						</small>
 					</div>
@@ -86,8 +86,8 @@ layout: default
 			<div class="border p-5 bg-lightblue">
 				<div class="row justify-content-between">
 					<div class="col-md-6 mb-2 mb-md-0">
-						<h5 class="font-weight-bold">Join Newsletter</h5>
-						 Get the latest news right in your inbox. We never spam!
+						<h5 class="font-weight-bold">Únete a la Newsletter</h5>
+						 Las últimas tendencias y noticias de IA en tu buzón. Nunca enviamos SPAM!
 					</div>
 					<div class="col-md-6">
 						<div class="row">
@@ -97,7 +97,7 @@ layout: default
 								<input type="email" placeholder="Enter e-mail address" name="EMAIL" class="required email form-control w-100" id="mce-EMAIL" autocomplete="on" required>
 							
 							
-								<button type="submit" value="Subscribe" name="subscribe" class="heart btn btn-success btn-block w-100 mt-2">Subscribe</button>
+								<button type="submit" value="Subscribe" name="subscribe" class="heart btn btn-success btn-block w-100 mt-2">Subscríbete</button>
 							
                             </div>
                             </form>
@@ -117,7 +117,7 @@ layout: default
                         {% endif %} 
 					</div>
 					<div class="col-md-10">		
-                        <h5 class="font-weight-bold">Written by {{ author.name }} {% if author.twitter %}<span><a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-2">Follow</a></span>{% endif %}</h5>
+                        <h5 class="font-weight-bold">Escrito por {{ author.name }} {% if author.twitter %}<span><a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-2">Follow</a></span>{% endif %}</h5>
 						{{ author.bio }}					
 					</div>
 				</div>				
