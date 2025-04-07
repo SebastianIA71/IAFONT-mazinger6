@@ -1,9 +1,11 @@
 <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
 
-
+	<small class="text-muted font-italic">
+		Como se ha creado la imagen que acompaña a:<br><br>
+	</small>
 	<h2 class="mb-1 h6 font-weight-bold">
-	<a class="text-dark" href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a>
+	<a class="text-primary" href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a>
 	</h2>
 	<small class="text-muted">
 		{{ post.date | date: '%b %d, %Y' }}
@@ -24,13 +26,12 @@
 
 	<h2 class="mb-1 h6 font-weight-bold">
 	<a></a>
-	<a class="text-dark">Prompt para Freepik / ChatGPT:</a>
+	<a class="text-dark"><br>Prompt para Freepik / ChatGPT:</a>
 	</h2>
 
-	<small class="text-muted">
-		{{ post.iarts}}
-	</small>
-
+	<p class="excerpt">
+	   {{ post.iarts  }}
+	</p>
 
 </div>
 {% if post.image %}
