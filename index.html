@@ -24,6 +24,9 @@ description: "Descrpción"
     </div>-->
 
 
+
+
+
 <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
 {% for post in site.posts %} 
 {% if post.tags contains "portada" %}
@@ -48,7 +51,7 @@ description: "Descrpción"
                 {% endfor %}
                 |       
                 </span>                   
-       <small class="text-muted">  {{ latest_post.date | date: '%b %d, %Y' }}  </small>
+       <small class="text-muted">  {{ latest_post.date | date: '%d %B %Y' }}  </small>
                     <small class="text-muted">
                         <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/author-{{ latest_post.author }}.html"> | Por {{ latest_post.author }}</a>  <span class="sep"> </span>                     
                     </small>
@@ -112,7 +115,7 @@ description: "Descrpción"
                         </span>                   
                     </small>
                     <small class="text-muted">
-                        {{ second_post.date | date: '%b %d, %Y' }}
+                        {{ second_post.date | date: '%d %B %Y' }}
                     </small>
 
 					<small class="text-muted">
@@ -153,7 +156,7 @@ description: "Descrpción"
                         </span>                   
                     </small>
                     <small class="text-muted">
-                        {{ third_post.date | date: '%b %d, %Y' }}
+                        {{ third_post.date | date: '%d %B %Y' }}
                     </small>
 
 
@@ -195,7 +198,7 @@ description: "Descrpción"
                         </span>                   
                     </small>
                     <small class="text-muted">
-                        {{ fourth_post.date | date: '%b %d, %Y' }}
+                        {{ fourth_post.date | date: '%d %B %Y' }}
                     </small>
 
 
@@ -238,7 +241,7 @@ description: "Descrpción"
                         </span>                   
                     </small>
                     <small class="text-muted">
-                        {{ fifth_post.date | date: '%b %d, %Y' }}
+                        {{ fifth_post.date | date: '%d %B %Y' }}
                     </small>
 
 
@@ -297,9 +300,7 @@ description: "Descrpción"
         
 
         {% for post in paginator.posts %}
-            {% if post != site.posts[3] %}
                 {% include main-loop-card.html %}
-            {% endif %}
         {% endfor %}
 
         <!--- {% assign visible_posts = site.posts | slice: 5, site.posts.size %}

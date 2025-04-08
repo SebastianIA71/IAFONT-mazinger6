@@ -2,6 +2,10 @@
 layout: default
 ---
 {% assign author = site.authors[page.author] %}
+
+{% assign months_es = "enero,febrero,marzo,abril,mayo,junio,julio,agosto,septiembre,octubre,noviembre,diciembre" | split: "," %}
+{% assign month_index = page.date | date: "%-m" | minus: 1 %}
+
 <div class="container">
 <!--<hr style="border-top: 1px solid #ccc; margin: 0.5rem 0;">    -->
 <div class="jumbotron jumbotron-fluid mb-3 pl-0 pt-0 pb-0 bg-white position-relative">
@@ -21,7 +25,10 @@ layout: default
                         <img class="rounded-circle" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.name}}" width="70"/>
                         {% endif %}
 						<small class="ml-3"> {{ author.name }} <span><a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-1">Seguir</a></span>
-                            <span class="text-muted d-block mt-1">{{ page.date | date: '%b %d, %Y' }} · {% include meta-read-time.html %}</span>
+
+
+
+                            <span class="text-muted d-block mt-1">{{ page.date | date: "%d" }} de {{ months_es[month_index] }} de {{ page.date | date: "%Y" }} · {% include meta-read-time.html %}</span>
 						</small>
 					</div>
 				</div>

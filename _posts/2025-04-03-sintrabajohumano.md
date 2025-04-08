@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "¿Una sociedad sin trabajo humano?"
+title:  "¿Es posible una sociedad sin trabajo humano?"
 author: sebastian
 categories: [ IA, Opinion ]
 image: assets/images/1015.jpg

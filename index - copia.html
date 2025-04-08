@@ -285,16 +285,16 @@ description: "Descrpción"
         <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
         
 
-        {% for post in paginator.posts %}
-            {% if post != site.posts[3] %}
+ <!--       {% for post in paginator.posts %}
+            {% if post != site.posts[6] %}
                 {% include main-loop-card.html %}
             {% endif %}
-        {% endfor %}
+        {% endfor %} -->
 
-        <!--- {% assign visible_posts = site.posts | slice: 5, site.posts.size %}
+        {% assign visible_posts = site.posts | slice: 6, site.posts.size %}
         {% for post in visible_posts %}
             {% include main-loop-card.html %}
-        {% endfor %} -->
+        {% endfor %} 
         
         <div class="mt-5">
          <!-- Pagination links -->

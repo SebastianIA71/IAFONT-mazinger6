@@ -10,9 +10,13 @@ url: "https://sebastiania71.github.io"
 disqus: 'demowebsite'
 email: 'aaaa@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+lang: es
 
 include: ["_pages"]
 permalink: /:title/
+
+languages: ["es"]
+default_lang: "es"
 
 # Plugins
 plugins: 
@@ -20,7 +24,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
-  
+  - jekyll-multiple-languages-plugin
+
 authors:
     sebastian:
       name:           sebastian
