@@ -77,11 +77,22 @@ description: "Descrpción"
     <!-- latest post -->
  
         
-        <!-- second latest post -->
+        <!-- second latest post 
+
+{% if post.image %}
+	<div class="col-md-4 pr-0 text-right">
+	<a href="{{site.baseurl}}{{post.url}}">
+	<img class="w-100" src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}" alt="{{ post.title }}">
+	</a>
+	</div>
+{% endif %} -->
+
+
+
         {%- assign second_post = site.posts[0] -%}        
         <div class="mb-3 d-flex align-items-center">                
                 {% if second_post.image %}
-                <div class="col-md-4">
+                <div class="col-md-4 ">
                 <a href="{{site.baseurl}}{{second_post.url}}">
 <!--                 <img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{ second_post.image | absolute_url }}{% endif %}" height="100" width="100" alt="{{ second_post.title }}">-->
                  <img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{site.baseurl}}/{{ second_post.image }}{% endif %}" height="100" width="100" alt="{{ second_post.title }}">
@@ -91,7 +102,7 @@ description: "Descrpción"
                 {% endif %}                
                 <div>
                     <h2 class="mb-2 h6 font-weight-bold">
-                    <a class="text-dark" href="{{site.baseurl}}{{second_post.url}}">{{ second_post.title }}</a>
+                    <a class="text-dark" href="{{site.baseurl}}{{second_post.url}}">{{ second_post.title | truncate: 50}}</a>
                     </h2>
                     <small class="d-block text-muted">
                         En <span class="catlist">
@@ -132,7 +143,7 @@ description: "Descrpción"
                 {% endif %}                
                 <div>
                     <h2 class="mb-2 h6 font-weight-bold">
-                    <a class="text-dark" href="{{site.baseurl}}{{third_post.url}}">{{ third_post.title }}</a>
+                    <a class="text-dark" href="{{site.baseurl}}{{third_post.url}}">{{ third_post.title | truncate: 50}}</a>
                     </h2>
                     <small class="d-block text-muted">
                         En <span class="catlist">
@@ -174,7 +185,7 @@ description: "Descrpción"
                 {% endif %}                
                 <div>
                     <h2 class="mb-2 h6 font-weight-bold">
-                    <a class="text-dark" href="{{site.baseurl}}{{fourth_post.url}}">{{ fourth_post.title }}</a>
+                    <a class="text-dark" href="{{site.baseurl}}{{fourth_post.url}}">{{ fourth_post.title | truncate: 50}}</a>
                     </h2>
                     <small class="d-block text-muted">
                         En <span class="catlist">
@@ -217,7 +228,7 @@ description: "Descrpción"
                 {% endif %}                
                 <div>
                     <h2 class="mb-2 h6 font-weight-bold">
-                    <a class="text-dark" href="{{site.baseurl}}{{fifth_post.url}}">{{ fifth_post.title }}</a>
+                    <a class="text-dark" href="{{site.baseurl}}{{fifth_post.url}}">{{ fifth_post.title | truncate: 50}}</a>
                     </h2>
                     <small class="d-block text-muted">
                         En <span class="catlist">
@@ -282,7 +293,7 @@ description: "Descrpción"
    
     <div class="col-md-8 main-loop">
         
-        <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
+        <h4 class="font-weight-bold spanborder"><span>Otras entradas</span></h4>
         
 
         {% for post in paginator.posts %}
@@ -317,7 +328,7 @@ description: "Descrpción"
               {% endfor %}
 
               {% if paginator.next_page %}
-                <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a></li>
+                <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Próxima &raquo;</a></li>
               {% else %}
                 <li class="page-item disabled"><span class="next page-link">&raquo;</span></li>
               {% endif %}
