@@ -1,12 +1,17 @@
 <div class="mb-5 d-flex justify-content-between main-loop-card">
+
+
+
 <div class="pr-3">
 
 	<small class="text-muted font-italic">		Como se ha creado la imagen que acompaña a: 	</small>
 
-	<a class="text-primary" href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a>
+	<a class="text-primary" href="{{site.baseurl}}{{post.url}}">{{ post.title }} </a>
 
-	<small class="text-muted">
-		{{ post.date | date: '%b %d, %Y' }}
+	<small class="text-muted"> |
+		{% assign months_es = "enero,febrero,marzo,abril,mayo,junio,julio,agosto,septiembre,octubre,noviembre,diciembre" | split: "," %}
+		{% assign month_index = post.date | date: "%-m" | minus: 1 %}
+		{{ post.date | date: "%d" }} de {{ months_es[month_index] }} de {{ post.date | date: "%Y" }}
 	</small>
 
 	

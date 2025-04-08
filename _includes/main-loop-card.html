@@ -14,7 +14,9 @@
 		</span>
 	</small>
 	<small class="text-muted">
-		{{ post.date | date: '%d %B %Y' }}
+		{% assign months_es = "enero,febrero,marzo,abril,mayo,junio,julio,agosto,septiembre,octubre,noviembre,diciembre" | split: "," %}
+		{% assign month_index = post.date | date: "%-m" | minus: 1 %}
+		{{ post.date | date: "%d" }} de {{ months_es[month_index] }} de {{ post.date | date: "%Y" }}		
 	</small>
 
 	
