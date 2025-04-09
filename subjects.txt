@@ -5,4 +5,10 @@ Informe AI Index 2025 de Stanford destaca el estado actual de la IA en 10 gráfi
 	Debate sobre la normalización de la IA como tecnología cotidiana:
 Arvind Narayanan propone en su nuevo artículo una visión de la inteligencia artificial como una “tecnología normal”, en c
 
-RAISE 2025 invita a estudiantes a analizar cómo la inteligencia artificial podría moldear el futuro en direcciones utópica
+RAISE 2025 invita a estudiantes a analizar cómo la
+ inteligencia artificial podría moldear el futuro 
+en direcciones utópica
+
+IBM ha anunciado su nuevo mainframe z17, diseñado específicamente para manejar operaciones de inferencia de IA, 
+
+	Preocupaciones sobre la invasión de ‘contenido basura’ generado por IA en la cultura:
