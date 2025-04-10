@@ -1,7 +1,5 @@
 Informe AI Index 2025 de Stanford destaca el estado actual de la IA en 10 gráficos:
 
-	5.	Exposición en Jeu de Paume explora obras creadas con inteligencia artificial:
-
 	Debate sobre la normalización de la IA como tecnología cotidiana:
 Arvind Narayanan propone en su nuevo artículo una visión de la inteligencia artificial como una “tecnología normal”, en c
 
