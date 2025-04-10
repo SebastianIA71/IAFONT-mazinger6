@@ -52,7 +52,7 @@ description: "Descrpción"
                 </span>                   
         {% assign month_index = latest_post.date | date: "%-m" | minus: 1 %}
         
-       <small class="text-muted">  {{ latest_post.date | date: "%d" }} de {{ months_es[month_index] }} de {{ latest_post.date | date: "%Y" }}               </small>
+       <small class="text-muted">  {{ latest_post.date | date: "%d" }} / {{ months_es[month_index] }} / {{ latest_post.date | date: "%Y" }}               </small>
                     <small class="text-muted">
                         <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/author-{{ latest_post.author }}.html"> | Por {{ latest_post.author }}</a>  <span class="sep"> </span>                     
                     </small>
@@ -116,7 +116,7 @@ description: "Descrpción"
                         </span>                   
                     </small>
                          {% assign month_index = second_post.date | date: "%-m" | minus: 1 %}
-                           <small class="text-muted">  {{ second_post.date | date: "%d" }} de {{ months_es[month_index] }} de {{ second_post.date | date: "%Y" }}               </small>                        
+                           <small class="text-muted">  {{ second_post.date | date: "%d" }} / {{ months_es[month_index] }} / {{ second_post.date | date: "%Y" }}               </small>                        
 
 					<small class="text-muted">
                         <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/author-{{ second_post.author }}.html"> | Por {{ second_post.author }}</a>  <span class="sep"> </span>						
@@ -157,7 +157,7 @@ description: "Descrpción"
                     </small>
 
                     {% assign month_index = third_post.date | date: "%-m" | minus: 1 %}
-                           <small class="text-muted">  {{ third_post.date | date: "%d" }} de {{ months_es[month_index] }} de {{ third_post.date | date: "%Y" }}               </small>                        
+                           <small class="text-muted">  {{ third_post.date | date: "%d" }} / {{ months_es[month_index] }} / {{ third_post.date | date: "%Y" }}               </small>                        
 
 
 					<small class="text-muted">
@@ -200,7 +200,7 @@ description: "Descrpción"
 
 
                     {% assign month_index = fourth_post.date | date: "%-m" | minus: 1 %}
-                           <small class="text-muted">  {{ fourth_post.date | date: "%d" }} de {{ months_es[month_index] }} de {{ fourth_post.date | date: "%Y" }}               </small>                        
+                           <small class="text-muted">  {{ fourth_post.date | date: "%d" }} / {{ months_es[month_index] }} / {{ fourth_post.date | date: "%Y" }}               </small>                        
 
 
 					<small class="text-muted">
@@ -243,7 +243,7 @@ description: "Descrpción"
                     </small>
 
                     {% assign month_index = fifth_post.date | date: "%-m" | minus: 1 %}
-                           <small class="text-muted">  {{ fifth_post.date | date: "%d" }} de {{ months_es[month_index] }} de {{ fifth_post.date | date: "%Y" }}               </small>                        
+                           <small class="text-muted">  {{ fifth_post.date | date: "%d" }} / {{ months_es[month_index] }} / {{ fifth_post.date | date: "%Y" }}               </small>                        
 
 
 					<small class="text-muted">
