@@ -1,17 +1,11 @@
 ---
 layout: post
 title:  "Abu Dhabi quiere ser el primer gobierno 100% IA"
-author: sebastian, iago
-categories: [IA, ROBOTICA, EUROPA, OPINION]
-image: assets/images/2025.jpg
-tags: [portada, featured, iart]
+author: iago
+categories: [IA, OPINION]
+image: assets/images/1036.jpg
 iarts: ["una ciudad futurista árabe con edificios gubernamentales digitales, inteligencia artificial y conectividad total"]
 ---
-
-# **Abu Dhabi quiere ser el primer gobierno 100% IA**
-
-## H1. La visión: convertir la IA en el eje del gobierno
-
 En un movimiento sin precedentes, Abu Dhabi ha lanzado una **ambiciosa iniciativa para transformarse en el primer gobierno del mundo completamente basado en inteligencia artificial (IA)**. Esta estrategia, que se enmarca en la **Estrategia Digital del Gobierno 2025-2027**, contempla la integración de más de 200 soluciones inteligentes en todos los procesos y servicios gubernamentales.
 
 Como expertos con décadas en el sector tecnológico y financiero, podemos afirmar que esta decisión marca un punto de inflexión global. No hablamos solo de digitalización, sino de una gobernanza donde los *algoritmos, los datos y la automatización* se sitúan en el núcleo de la toma de decisiones.
