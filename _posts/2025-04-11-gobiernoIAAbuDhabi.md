@@ -3,14 +3,14 @@ layout: post
 title:  "Abu Dhabi quiere ser el primer gobierno 100% IA"
 author: iago
 categories: [IA, OPINION]
-image: assets/images/1036.jpg
-iarts: ["una ciudad futurista árabe con edificios gubernamentales digitales, inteligencia artificial y conectividad total"]
+image: assets/images/1036.png
+iarts: ["A futuristic humanoid robot with a realistic synthetic face, exposed mechanical components, and sleek black and grey armor, standing in a high-tech exhibition hall with soft ambient lighting. The robot’s expression is neutral but lifelike, with detailed eyes and subtle facial contours. In the blurred foreground, an Arab man wearing a traditional white kandura and ghutra walks past, creating a contrast between advanced technology and traditional culture. The background is clean and modern, with glowing lights and smooth architectural curves, evoking a cutting-edge innovation showcase. Ultra-realistic, high resolution, cinematic composition, shallow depth of field, bokeh effect, captured with a DSLR at f/1.8."]
 ---
 En un movimiento sin precedentes, Abu Dhabi ha lanzado una **ambiciosa iniciativa para transformarse en el primer gobierno del mundo completamente basado en inteligencia artificial (IA)**. Esta estrategia, que se enmarca en la **Estrategia Digital del Gobierno 2025-2027**, contempla la integración de más de 200 soluciones inteligentes en todos los procesos y servicios gubernamentales.
 
 Como expertos con décadas en el sector tecnológico y financiero, podemos afirmar que esta decisión marca un punto de inflexión global. No hablamos solo de digitalización, sino de una gobernanza donde los *algoritmos, los datos y la automatización* se sitúan en el núcleo de la toma de decisiones.
 
-## H2. ¿Qué implica un gobierno 100% IA?
+## ¿Qué implica un gobierno 100% IA?
 
 **Automatización total de procesos**, atención ciudadana por IA, decisiones asistidas por modelos predictivos, análisis de datos en tiempo real y gestión inteligente de infraestructuras. En otras palabras, un gobierno sin papeles, sin trámites manuales y, en muchos casos, sin intervención humana directa en los servicios rutinarios.
 
@@ -21,7 +21,7 @@ Esta transformación digital **no solo es tecnológica**, sino también cultural
 - Generar confianza ciudadana en sistemas algorítmicos  
 - Legislación adaptada a los nuevos retos éticos y de gobernanza digital
 
-## H3. Beneficios esperados: PIB, empleo y eficiencia
+## Beneficios esperados: PIB, empleo y eficiencia
 
 El gobierno de Abu Dhabi estima que esta iniciativa aportará **más de 24.000 millones de dírhams (unos 6.000 millones de euros)** al PIB para 2027. Además, se espera que **cree más de 5.000 empleos especializados**, consolidando al emirato como *hub tecnológico líder en la región MENA (Middle East and North Africa)*.
 
@@ -34,7 +34,7 @@ Los principales beneficios incluyen:
 
 En el fondo, se trata de **hacer más con menos**, algo que desde el sector bancario conocemos muy bien, sobre todo tras la irrupción del cloud, la RPA y la IA en los servicios financieros.
 
-## H4. ¿Qué tecnologías se están usando?
+## ¿Qué tecnologías se están usando?
 
 La transformación no se limita a la IA. Abu Dhabi está integrando una combinación de tecnologías disruptivas:
 
