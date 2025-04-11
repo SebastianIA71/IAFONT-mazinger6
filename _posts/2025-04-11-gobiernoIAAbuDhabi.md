@@ -4,6 +4,7 @@ title:  "Abu Dhabi quiere ser el primer gobierno 100% IA"
 author: iago
 categories: [IA, OPINION]
 image: assets/images/1036.png
+tags: [iart]
 iarts: ["A futuristic humanoid robot with a realistic synthetic face, exposed mechanical components, and sleek black and grey armor, standing in a high-tech exhibition hall with soft ambient lighting. The robot’s expression is neutral but lifelike, with detailed eyes and subtle facial contours. In the blurred foreground, an Arab man wearing a traditional white kandura and ghutra walks past, creating a contrast between advanced technology and traditional culture. The background is clean and modern, with glowing lights and smooth architectural curves, evoking a cutting-edge innovation showcase. Ultra-realistic, high resolution, cinematic composition, shallow depth of field, bokeh effect, captured with a DSLR at f/1.8."]
 ---
 En un movimiento sin precedentes, Abu Dhabi ha lanzado una **ambiciosa iniciativa para transformarse en el primer gobierno del mundo completamente basado en inteligencia artificial (IA)**. Esta estrategia, que se enmarca en la **Estrategia Digital del Gobierno 2025-2027**, contempla la integración de más de 200 soluciones inteligentes en todos los procesos y servicios gubernamentales.
