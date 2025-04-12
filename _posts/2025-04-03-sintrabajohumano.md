@@ -26,6 +26,14 @@ Hoy ya lo vemos:
 
 El problema no es la IA. Es que **no estamos preparados emocional ni socialmente para vivir sin trabajar**.
 
+<div class="video-gallery">
+  <div class="video-item">
+    <video width="560" height="315" controls>
+      <source src="https://sebastiania71.github.io/IAFONT-mazinger6/assets/images/1015.mp4">      
+      Your browser does not support the video tag.
+    </video>
+  </div>
+</div>
 ---
 
 ## La paradoja de la abundancia
