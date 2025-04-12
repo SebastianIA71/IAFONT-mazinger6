@@ -66,4 +66,15 @@ Mucho. Aunque Europa apuesta por una IA centrada en el ser humano, el caso de Ab
 
 Nosotros, que llevamos décadas viendo la evolución de la tecnología en sectores tan críticos como la banca, sabemos que los procesos pueden cambiar radicalmente con la IA. Pero también sabemos que *una transformación tan profunda no ocurre sin resistencias internas, sin errores, ni sin dilemas éticos*.
 
+<div class="video-gallery">
+  <div class="video-item">
+    <video width="560" height="315" controls>
+      <source src="/assets/images/video1.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+  <!-- Add more video items as needed -->
+</div>
+
+
 Abu Dhabi está apostando fuerte. Y si logra mantener la transparencia, proteger los derechos ciudadanos y consolidar una gobernanza de calidad, **puede marcar el rumbo de cómo serán los gobiernos del futuro**.
