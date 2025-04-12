@@ -69,7 +69,7 @@ Nosotros, que llevamos décadas viendo la evolución de la tecnología en sector
 <div class="video-gallery">
   <div class="video-item">
     <video width="560" height="315" controls>
-      <source src="IAFONT-mazinger6/assets/images/1036.mp4" type="video/mp4">
+      <source src="https://sebastiania71.github.io/IAFONT-mazinger6/assets/images/1036.mp4">
       Your browser does not support the video tag.
     </video>
   </div>
