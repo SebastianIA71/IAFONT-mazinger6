@@ -46,6 +46,16 @@ Entonces, ¿por qué no ibas a tener una IA diseñando tu próxima lámpara, car
 
 **Consejo de influencer tech**: empieza a experimentar con herramientas como **RunwayML, Leonardo.Ai o NightCafe**. No necesitas ser diseñador. Solo necesitas una idea… y algo de curiosidad. Y de paso, te subes al tren del futuro antes de que te pase por encima.
 
+<div class="video-gallery">
+  <div class="video-item">
+    <video width="560" height="315" controls>
+      <source src="https://sebastiania71.github.io/IAFONT-mazinger6/assets/images/1032.mp4">      
+      Your browser does not support the video tag.
+    </video>
+  </div>
+</div>
+
+
 ## **Programa paralelo: charlas, debates y cine de ciencia ficción que ya es realidad**
 
 El Jeu de Paume ha organizado un ciclo de actividades que complementan la exposición:
