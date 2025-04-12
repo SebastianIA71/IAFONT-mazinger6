@@ -1,13 +1,5 @@
-Informe AI Index 2025 de Stanford destaca el estado actual de la IA en 10 gráficos:
-
 	Debate sobre la normalización de la IA como tecnología cotidiana:
 Arvind Narayanan propone en su nuevo artículo una visión de la inteligencia artificial como una “tecnología normal”, en c
-
-RAISE 2025 invita a estudiantes a analizar cómo la
- inteligencia artificial podría moldear el futuro 
-en direcciones utópica
-
-IBM ha anunciado su nuevo mainframe z17, diseñado específicamente para manejar operaciones de inferencia de IA, 
 
 	Preocupaciones sobre la invasión de ‘contenido basura’ generado por IA en la cultura:
 
@@ -15,18 +7,19 @@ Google utiliza IA para reinventar 'El Mago de Oz' en el Sphere de Las Vegas:
 
 Investigadores de Dartmouth utilizan IA para preservar idiomas en peligro de extinción:
 
-
-
-Abu Dhabi lanza iniciativa para convertirse en el primer gobierno totalmente basado en IA:
-
 Gobierno británico utiliza tecnología para predecir posibles asesinos:
 Se ha informado que el gobier
 
 Película '2073' utiliza imágenes reales para crear una visión distópica del futuro: El cineasta Asif Kapadia ha creado '2073', un documental que combina imágenes reales para ilustrar un futuro distópico afectado por el cambio climático y 
 
-
-
 ONG advierte sobre el sistema británico de predicción de asesinatos: Una organización no gubernamental ha calificado de "escalofriante y distópico" el uso de tecnología por parte del gobierno británico para predecir posibles asesinos, planteando preocu
+
+Alphabet y Nvidia invierten en la startup de IA de Ilya Sutskever: Alphabet y Nvidia han invertido en Safe Superintelligence (SSI), una startup de inteligencia artificial cofundada por Ilya Sutskever, ex científico jefe de OpenAI. SSI, 
+
+OpenAI afirma que puede reconstruir GPT-4 con solo 5 a 10 ingenieros: Gracias a los avances logrados con su último modelo, GPT-4.5, Open
+
+
+CEO de Scale AI advierte sobre la necesidad de que EE. UU. mantenga el ritmo con China en IA: Alexandr Wang, CE
 
 
 
