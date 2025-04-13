@@ -7,8 +7,8 @@ favicon: 'assets/images/favicon.ico'
 baseurl: "/IAFONT-mazinger6"
 #url: "localhost:4000"
 url: "https://sebastiania71.github.io"
-disqus: 'demowebsite'
-email: 'aaaa@gmail.com'
+disqus: 'iafont'
+email: 'sebastian@iafont.com'
 mailchimp-list: 'https://iafont.us20.list-manage.com/subscribe/post?u=51cc4f0a86252d7c93c774845&amp;id=bc40071d54&amp'
 
 lang: es
