@@ -4,13 +4,12 @@ title:  "Reino Unido y su sistema predictivo de asesinatos: ¿vigilancia prevent
 author: sebastian
 categories: [IA, OPINION]
 image: assets/images/1037.jpg
-tags: [iart]
 iarts: ["una ilustración estilo cyberpunk en tonos fríos, mostrando una cámara de vigilancia flotante escaneando a una multitud en Londres"]
 ---
 
 # **Reino Unido y su sistema predictivo de asesinatos: ¿vigilancia preventiva o distopía digital?**
 
-## H1. Tecnología predictiva: ¿hacia la seguridad o el control absoluto?
+## Tecnología predictiva: ¿hacia la seguridad o el control absoluto?
 
 Una nueva polémica sacude al Reino Unido y, con ello, al debate global sobre el uso ético de la inteligencia artificial. Según ha denunciado una organización no gubernamental (ONG), el gobierno británico está empleando herramientas tecnológicas que intentan **predecir futuros asesinos**. La iniciativa, a pesar de estar enmarcada en objetivos de seguridad pública, ha sido calificada como "escalofriante y distópica" por activistas, académicos y defensores de los derechos humanos.
 
@@ -18,7 +17,7 @@ Esta controversia no es aislada. Lo que está en juego es **el límite entre la 
 
 ---
 
-## H2. ¿Qué está haciendo el Reino Unido exactamente?
+## ¿Qué está haciendo el Reino Unido exactamente?
 
 Según informes publicados por varios medios y corroborados por la ONG británica *Liberty*, el gobierno ha puesto en marcha un sistema basado en inteligencia artificial y análisis de datos que, combinando **historial policial, escolar, médico y social**, genera un índice de riesgo que indica la posibilidad de que una persona cometa un asesinato en el futuro.
 
@@ -28,7 +27,7 @@ Los algoritmos utilizados, cuyo funcionamiento **no ha sido totalmente transpare
 
 ---
 
-## H3. Las críticas más duras: ¿Minority Report en la vida real?
+## Las críticas más duras: ¿Minority Report en la vida real?
 
 Desde hace años, la comunidad tecnológica ha advertido sobre los peligros del **“predictive policing”**, es decir, el uso de algoritmos para anticipar delitos antes de que sucedan. El concepto, popularizado por películas como *Minority Report*, parece haber saltado del cine a la realidad británica.
 
@@ -37,13 +36,13 @@ La ONG Liberty lo ha denunciado con fuerza, asegurando que este sistema:
 - **Viola los derechos fundamentales**, como la presunción de inocencia.
 - **Refuerza los prejuicios estructurales** del sistema policial y judicial.
 - Puede derivar en **discriminación por raza, clase social o salud mental**.
-- Carece de mecanismos de apelación o revisión humana efectiva.
+- Carece de mecanismos de **apelación o revisión humana efectiva**.
 
 Además, otras voces como la del Observatorio Europeo de Derechos Digitales (EDRi) han afirmado que este tipo de sistemas podrían acabar etiquetando como “potenciales asesinos” a personas vulnerables, estigmatizándolas para siempre sin ningún hecho delictivo real.
 
 ---
 
-## H4. Recomendaciones para gobiernos y ciudadanos: cómo abordar este debate
+## Recomendaciones para gobiernos y ciudadanos: cómo abordar este debate
 
 Como expertos en tecnología y defensores de su buen uso, **nosotros creemos que es urgente establecer límites éticos y legales muy claros**. Aquí van algunas recomendaciones prácticas:
 
