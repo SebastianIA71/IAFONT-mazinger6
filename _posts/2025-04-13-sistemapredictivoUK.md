@@ -6,11 +6,6 @@ categories: [IA, OPINION]
 image: assets/images/1037.jpg
 iarts: ["una ilustración estilo cyberpunk en tonos fríos, mostrando una cámara de vigilancia flotante escaneando a una multitud en Londres"]
 ---
-
-# **Reino Unido y su sistema predictivo de asesinatos: ¿vigilancia preventiva o distopía digital?**
-
-## Tecnología predictiva: ¿hacia la seguridad o el control absoluto?
-
 Una nueva polémica sacude al Reino Unido y, con ello, al debate global sobre el uso ético de la inteligencia artificial. Según ha denunciado una organización no gubernamental (ONG), el gobierno británico está empleando herramientas tecnológicas que intentan **predecir futuros asesinos**. La iniciativa, a pesar de estar enmarcada en objetivos de seguridad pública, ha sido calificada como "escalofriante y distópica" por activistas, académicos y defensores de los derechos humanos.
 
 Esta controversia no es aislada. Lo que está en juego es **el límite entre la prevención del crimen y la invasión anticipada de la libertad individual**, y el Reino Unido parece haber cruzado una línea roja que ya no solo preocupa a su ciudadanía, sino a la comunidad internacional.
