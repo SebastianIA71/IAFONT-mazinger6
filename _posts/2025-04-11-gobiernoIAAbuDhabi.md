@@ -9,7 +9,7 @@ iarts: ["A futuristic humanoid robot with a realistic synthetic face, exposed me
 ---
 En un movimiento sin precedentes, Abu Dhabi ha lanzado una **ambiciosa iniciativa para transformarse en el primer gobierno del mundo completamente basado en inteligencia artificial (IA)**. Esta estrategia, que se enmarca en la **Estrategia Digital del Gobierno 2025-2027**, contempla la integración de más de 200 soluciones inteligentes en todos los procesos y servicios gubernamentales.
 
-Como expertos con décadas en el sector tecnológico y financiero, podemos afirmar que esta decisión marca un punto de inflexión global. No hablamos solo de digitalización, sino de una gobernanza donde los *algoritmos, los datos y la automatización* se sitúan en el núcleo de la toma de decisiones.
+Como expertos con décadas en el sector tecnológico y financiero, podemos afirmar que esta decisión marca un punto de inflexión global. No hablamos solo de digitalización, sino de una gobernanza donde los algoritmos, los datos y la automatización se sitúan en el núcleo de la toma de decisiones.
 
 ## ¿Qué implica un gobierno 100% IA?
 
@@ -17,14 +17,14 @@ Como expertos con décadas en el sector tecnológico y financiero, podemos afirm
 
 Esta transformación digital **no solo es tecnológica**, sino también cultural y organizativa. Requiere:
 
-- *Rediseñar flujos de trabajo gubernamentales*  
+- Rediseñar flujos de trabajo gubernamentales
 - Capacitar a empleados públicos en IA y tecnologías emergentes  
 - Generar confianza ciudadana en sistemas algorítmicos  
 - Legislación adaptada a los nuevos retos éticos y de gobernanza digital
 
 ## Beneficios esperados: PIB, empleo y eficiencia
 
-El gobierno de Abu Dhabi estima que esta iniciativa aportará **más de 24.000 millones de dírhams (unos 6.000 millones de euros)** al PIB para 2027. Además, se espera que **cree más de 5.000 empleos especializados**, consolidando al emirato como *hub tecnológico líder en la región MENA (Middle East and North Africa)*.
+El gobierno de Abu Dhabi estima que esta iniciativa aportará **más de 24.000 millones de dírhams (unos 6.000 millones de euros)** al PIB para 2027. Además, se espera que **cree más de 5.000 empleos especializados**, consolidando al emirato como hub tecnológico líder en la región MENA (Middle East and North Africa).
 
 Los principales beneficios incluyen:
 
@@ -45,26 +45,26 @@ La transformación no se limita a la IA. Abu Dhabi está integrando una combinac
 - **Gemelos digitales**: para simular y optimizar procesos gubernamentales  
 - **Modelos fundacionales de lenguaje (LLMs)**: para interacción en tiempo real con los ciudadanos
 
-Es un enfoque holístico, donde cada tecnología *aporta valor en un punto distinto del ecosistema público*.
+Es un enfoque holístico, donde cada tecnología aporta valor en un punto distinto del ecosistema público.
 
 ---
 
 ## FAQs
 
 **1. ¿Qué diferencia este proyecto de otros gobiernos digitales?**  
-Lo innovador de Abu Dhabi es que no se trata de digitalizar servicios existentes, sino de *reconstruir todo el ecosistema gubernamental desde la lógica de la IA*.
+Lo innovador de Abu Dhabi es que no se trata de digitalizar servicios existentes, sino de reconstruir todo el ecosistema gubernamental desde la lógica de la IA.
 
 **2. ¿Cómo se garantiza la transparencia y ética en las decisiones algorítmicas?**  
 El plan incluye auditorías de IA, explicabilidad de modelos y un marco de gobernanza basado en los principios éticos de la IA definidos por la OCDE y la UNESCO.
 
 **3. ¿Qué podemos aprender desde Europa?**  
-Mucho. Aunque Europa apuesta por una IA centrada en el ser humano, el caso de Abu Dhabi es un ejemplo de cómo la *voluntad política y la inversión estratégica* pueden acelerar la adopción tecnológica a gran escala.
+Mucho. Aunque Europa apuesta por una IA centrada en el ser humano, el caso de Abu Dhabi es un ejemplo de cómo la voluntad política y la inversión estratégica pueden acelerar la adopción tecnológica a gran escala.
 
 ---
 
 ## Conclusión: ¿un modelo a seguir o una utopía futurista?
 
-Nosotros, que llevamos décadas viendo la evolución de la tecnología en sectores tan críticos como la banca, sabemos que los procesos pueden cambiar radicalmente con la IA. Pero también sabemos que *una transformación tan profunda no ocurre sin resistencias internas, sin errores, ni sin dilemas éticos*.
+Nosotros, que llevamos décadas viendo la evolución de la tecnología en sectores tan críticos como la banca, sabemos que los procesos pueden cambiar radicalmente con la IA. Pero también sabemos que una transformación tan profunda no ocurre sin resistencias internas, sin errores, ni sin dilemas éticos.
 
 <div class="video-gallery">
   <div class="video-item">
