@@ -13,17 +13,17 @@ iarts: ["An abstract painting inspired by Kandinsky, featuring bold, expressive 
 
 Kandinsky creía profundamente en el *“impulso interior”*, ese fuego espiritual que debe guiar cada pincelada. Ver cómo una IA genera en segundos miles de imágenes asombrosas lo dejaría asombrado, pero también con una sensación de vacío.
 
-*“Esto es forma sin alma… color sin intención interior.”*
+**“Esto es forma sin alma… color sin intención interior.”**
 
 Sin embargo, si entendiera que estas IAs han sido entrenadas con millones de obras humanas, quizá cambiaría de opinión:
 
-*“Entonces estas máquinas no crean… interpretan la historia del arte humano.”*
+**“Entonces estas máquinas no crean… interpretan la historia del arte humano.”**
 
 ## Una nueva sinfonía visual: el arte abstracto digital
 
 Kandinsky, que encontraba conexiones entre la pintura y la música, probablemente vería en los generadores de imágenes una nueva orquesta visual. Imágenes abstractas, formas imposibles, colores que solo existen en el universo digital.
 
-*“Este es un nuevo instrumento. Como pasar del violín al sintetizador.”*
+**“Este es un nuevo instrumento. Como pasar del violín al sintetizador.”**
 
 La IA podría brindarle una libertad aún mayor para expresar lo intangible, lo emocional, lo espiritual. Una herramienta que expande los límites de la creatividad.
 
@@ -31,7 +31,7 @@ La IA podría brindarle una libertad aún mayor para expresar lo intangible, lo 
 
 El arte, para Kandinsky, era una evolución del alma humana. Así que ver una máquina “creando” podría parecerle peligroso... si pensamos que puede reemplazar al artista.
 
-*“El problema no es la herramienta, sino si el hombre ha dejado de buscar su verdad interior.”*
+**“El problema no es la herramienta, sino si el hombre ha dejado de buscar su verdad interior.”**
 
 Si usamos la IA para crear sin conciencia, sin mensaje, sin alma, estaríamos traicionando el propósito más profundo del arte. Pero si la usamos como medio de exploración interior… entonces podría ser revolucionaria.
 
