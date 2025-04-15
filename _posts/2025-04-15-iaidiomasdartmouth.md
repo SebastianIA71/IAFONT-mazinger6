@@ -3,7 +3,7 @@ layout: post
 title:  "IA para salvar lenguas en extinción: el caso Dartmouth"
 author: iago
 categories: [IA, EDUCACION, CULTURA]
-image: assets/images/1038.jpg
+image: assets/images/1038.png
 ---
 Vivimos en una era donde las máquinas no solo procesan información: ahora aprenden, traducen y, sorprendentemente, también *preservan culturas*. Uno de los desafíos más silenciosos pero devastadores del siglo XXI es la pérdida de idiomas. Según la UNESCO, cada dos semanas desaparece una lengua en el mundo. **Pero un grupo de investigadores de la Universidad de Dartmouth ha decidido plantar cara a esta crisis usando inteligencia artificial (IA)**.
 
