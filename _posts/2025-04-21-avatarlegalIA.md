@@ -13,7 +13,7 @@ Este hecho ha desatado un debate internacional: ¿es posible que la inteligencia
 
 ---
 
-**Qué sucedió exactamente en la audiencia**
+## Qué sucedió exactamente en la audiencia ## 
 
 El acusado, con ayuda de una plataforma generativa, creó un avatar de aspecto humano, con voz sintética modulada y lenguaje jurídico convincente. El avatar apareció en la videollamada como si fuera un abogado legítimo. El engaño se sostuvo hasta que el juez, extrañado por el comportamiento del "abogado", solicitó ver su credencial profesional y comprobar su identidad real mediante cámara.
 
@@ -21,7 +21,7 @@ Fue entonces cuando todo se derrumbó. El sistema utilizado había sido entrenad
 
 ---
 
-**¿Podría pasar en otras jurisdicciones?**
+## Podría pasar en otras jurisdicciones? ## 
 
 Sí. Este caso no es un hecho aislado, sino una muestra de lo que ya se avecina. Herramientas como [ChatGPT](https://openai.com/chatgpt), [Claude](https://www.anthropic.com/index/introducing-claude), [Gemini](https://deepmind.google/technologies/gemini/) o [Copilot de Microsoft](https://copilot.microsoft.com/) ya están siendo adoptadas por despachos de abogados para generar borradores, interpretar normativas o revisar jurisprudencia.
 
@@ -31,7 +31,7 @@ En América Latina, el riesgo es incluso mayor, debido a la falta de legislació
 
 ---
 
-**Límites legales y éticos de la IA**
+## Límites legales y éticos de la IA ## 
 
 La inteligencia artificial puede ser una aliada estratégica en el mundo jurídico. Ya se utiliza con éxito en análisis predictivo de sentencias, revisión masiva de contratos o clasificación documental. Pero **el juicio humano sigue siendo irremplazable**.
 
@@ -41,28 +41,28 @@ La [American Bar Association](https://www.americanbar.org/groups/science_technol
 
 ---
 
-**Cómo prepararnos como sociedad**
+## Cómo prepararnos como sociedad## 
 
 La clave no está en frenar el avance tecnológico, sino en acompañarlo con educación, regulación y responsabilidad compartida. Aquí van algunas recomendaciones claras:
 
-*Consejos para abogados:*
+**Consejos para abogados:**
 - Aprende a usar IA como herramienta de apoyo, no como sustituto.
 - Asegúrate de que tu colegio profesional está discutiendo regulaciones éticas sobre IA.
 - No delegues la empatía, el criterio ni la estrategia a un algoritmo.
 
-*Consejos para ciudadanos:*
+**Consejos para ciudadanos:**
 - Desconfía de quienes prometen representación legal mediante bots o avatares.
 - Verifica siempre que quien te defiende está colegiado y tiene acreditación.
 - Consulta varias fuentes antes de tomar decisiones legales automatizadas.
 
-*Consejos para desarrolladores de IA:*
+**Consejos para desarrolladores de IA:**
 - Incluye restricciones claras de uso en tus plataformas legales.
 - Implementa mecanismos de verificación de identidad.
 - Anticipa y mitiga posibles usos maliciosos o éticamente dudosos.
 
 ---
 
-**FAQs sobre IA y leyes**
+## FAQs## 
 
 **¿Es legal usar una IA como abogado?**  
 No. En la mayoría de países, representar a otra persona ante un tribunal requiere estar colegiado. Usar un avatar IA sin acreditación puede ser considerado fraude o desacato.
@@ -75,7 +75,7 @@ Sí. La [UE con el AI Act](https://digital-strategy.ec.europa.eu/en/policies/eur
 
 ---
 
-**Reflexión final: la IA no reemplaza al juicio humano**
+## Reflexión final: la IA no reemplaza al juicio humano## 
 
 Este caso no es solo una anécdota tecnológica, sino una **advertencia sobre los desafíos legales y éticos** que nos esperan. No basta con tener una IA brillante, hay que tener una sociedad preparada para usarla con criterio.
 
