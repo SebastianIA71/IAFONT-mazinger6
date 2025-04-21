@@ -3,7 +3,7 @@ name: 'IAfont'
 motto: 'Data speaks louder'
 description: 'IAfont es un espacio personal, donde tratamos de dar a conocer la información más relevante.. y también la más distópica en el ámbito de la Inteligencia Artificial'
 logo: '/assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+favicon: '/assets/images/favicon.ico'
 baseurl: ""
 #url: "localhost:4000"
 url: "https://www.iafont.com"
