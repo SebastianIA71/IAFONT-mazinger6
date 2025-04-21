@@ -41,37 +41,37 @@ La [American Bar Association](https://www.americanbar.org/groups/science_technol
 
 ---
 
-## Cómo prepararnos como sociedad## 
+## Cómo prepararnos como sociedad ## 
 
 La clave no está en frenar el avance tecnológico, sino en acompañarlo con educación, regulación y responsabilidad compartida. Aquí van algunas recomendaciones claras:
 
-**Consejos para abogados:**
+**Consejos para abogados: **
 - Aprende a usar IA como herramienta de apoyo, no como sustituto.
 - Asegúrate de que tu colegio profesional está discutiendo regulaciones éticas sobre IA.
 - No delegues la empatía, el criterio ni la estrategia a un algoritmo.
 
-**Consejos para ciudadanos:**
+**Consejos para ciudadanos: **
 - Desconfía de quienes prometen representación legal mediante bots o avatares.
 - Verifica siempre que quien te defiende está colegiado y tiene acreditación.
 - Consulta varias fuentes antes de tomar decisiones legales automatizadas.
 
-**Consejos para desarrolladores de IA:**
+**Consejos para desarrolladores de IA: **
 - Incluye restricciones claras de uso en tus plataformas legales.
 - Implementa mecanismos de verificación de identidad.
 - Anticipa y mitiga posibles usos maliciosos o éticamente dudosos.
 
 ---
 
-## FAQs## 
+## FAQs ## 
 
-**¿Es legal usar una IA como abogado?**  
+** ¿Es legal usar una IA como abogado? **  
 No. En la mayoría de países, representar a otra persona ante un tribunal requiere estar colegiado. Usar un avatar IA sin acreditación puede ser considerado fraude o desacato.
 
-**¿Puedo usar IA para preparar un juicio?**  
+** ¿Puedo usar IA para preparar un juicio? **  
 Sí, siempre que se utilice como ayuda para redactar, traducir o consultar normativas. Lo ilegal es que hable por ti como si fuera un abogado titulado.
 
-**¿Se está regulando esto a nivel global?**  
-Sí. La [UE con el AI Act](https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence), y también iniciativas como el [AI Bill of Rights](https://www.whitehouse.gov/ostp/ai-bill-of-rights/) en EE.UU., ya están sentando bases para limitar usos críticos de IA.
+** ¿Se está regulando esto a nivel global? **  
+Sí. La [UE con el AI Act](https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence), y también iniciativas como el AI Bill of Rights en EE.UU., ya están sentando bases para limitar usos críticos de IA.
 
 ---
 
