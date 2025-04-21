@@ -4,9 +4,9 @@ motto: 'Data speaks louder'
 description: 'IAfont es un espacio personal, donde tratamos de dar a conocer la información más relevante.. y también la más distópica en el ámbito de la Inteligencia Artificial'
 logo: '/assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: "/IAFONT-mazinger6"
+baseurl: ""
 #url: "localhost:4000"
-url: "https://sebastiania71.github.io"
+url: "https://www.iafont.com"
 disqus: 'iafont'
 email: 'sebastian@iafont.com'
 mailchimp-list: 'https://iafont.us20.list-manage.com/subscribe/post?u=51cc4f0a86252d7c93c774845&amp;id=bc40071d54&amp'
