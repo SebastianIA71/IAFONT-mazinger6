@@ -71,11 +71,11 @@ Por eso, muchos guitarristas combinan ambos mundos: clases con humanos + prácti
 
 ## Recomendaciones según tu nivel
 
-| Nivel       | Herramientas recomendadas                     |
-|-------------|----------------------------------------------|
-| Principiante| Yousician, Chordify, Moises.ai               |
-| Intermedio  | Uberchord, BandLab, ToneX                    |
-| Avanzado    | Neural DSP, Orb Composer, Jamstik Studio     |
+| Nivel            | Herramientas recomendadas                     |
+|------------------|----------------------------------------------|
+| Principiante     | Yousician, Chordify, Moises.ai               |
+| Intermedio       | Uberchord, BandLab, ToneX                    |
+| Avanzado         | Neural DSP, Orb Composer, Jamstik Studio     |
 
 ## FAQs sobre IA y aprendizaje de guitarra
 
