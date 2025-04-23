@@ -1,27 +1,16 @@
+MIT desarrolla técnica para mejorar la precisión del código generado por IA en cualquier lenguaje de programación
 
-	MIT desarrolla técnica para mejorar la precisión del código generado por IA en cualquier lenguaje de programación
+Robots humanoides compiten contra humanos en medio maratón en China Más de 20 robots bípedos particip
 
-	Robots humanoides compiten contra humanos en medio maratón en China
-Más de 20 robots bípedos particip
+Investigadores desarrollan IA que aprende tareas observando videos Científicos han desarrollado un marco robótico impulsado por inteligencia artificial, llamado RHyME, qu
 
+Anthropic anticipa la llegada de empleados virtuales impulsados por IA La empresa de inteligencia artificial Anthropic prevé que, de
 
-	Investigadores desarrollan IA que aprende tareas observando videos
-Científicos han desarrollado un marco robótico impulsado por inteligencia artificial, llamado RHyME, qu
+MIT mejora la precisión del código generado por IA Investigado
 
-2.	Anthropic anticipa la llegada de empleados virtuales impulsados por IA
-La empresa de inteligencia artificial Anthropic prevé que, de
+La IA se acerca a la visión humana con nueva técnica inspirada en el cerebro Una nueva técnica de inteligencia artificial, llamada Lp-Convolution, mejora la precisión y eficiencia de los sistemas de 
 
-MIT mejora la precisión del código generado por IA
-Investigado
-
-
-5.	La IA se acerca a la visión humana con nueva técnica inspirada en el cerebro
-Una nueva técnica de inteligencia artificial, llamada Lp-Convolution, mejora la precisión y eficiencia de los sistemas de 
-
-
-
-	Debate sobre la normalización de la IA como tecnología cotidiana:
-Arvind Narayanan propone en su nuevo artículo una visión de la inteligencia artificial como una “tecnología normal”, en c
+Debate sobre la normalización de la IA como tecnología cotidiana: Arvind Narayanan propone en su nuevo artículo una visión de la inteligencia artificial como una “tecnología normal”, en c
 
 Microsoft y Google invierten en tecnologías de eliminación de carbono y geotermia:
 
@@ -37,27 +26,15 @@ Universal Studios disfraza perros robot como dragones para atracción temática
 AI SURPASSES DOCTORS IN DIAGNOSING ILLNESS FROM COUGH SOUNDS RECORDED
 VIA SMARTPHONE
 
-NEW YORK JUDGE CUTS OFF HEARING AFTER MAN SENDS AI AVATAR TO ARGUE HIS CASE
-Primer abogado generado por IA es descalificado tras engañar a la corte
-Un hombre de 74 años presentó un video en la
-
-
 https://www.nature.com/articles/d41586-025-01123-x
-
-.	El gobierno británico utiliza tecnología para predecir posibles asesinos
 
 Líderes de IA predicen la llegada de robots colaboradores en el lugar de trabajo:
 
-	Preocupaciones sobre la invasión de ‘contenido basura’ generado por IA en la cultura:
+Preocupaciones sobre la invasión de ‘contenido basura’ generado por IA en la cultura:
 
 Google utiliza IA para reinventar 'El Mago de Oz' en el Sphere de Las Vegas:
 
-Investigadores de Dartmouth utilizan IA para preservar idiomas en peligro de extinción:
-
 Debate sobre la creación de una ‘divinidad artificial’ por parte de Elon Musk
-
-Gobierno británico utiliza tecnología para predecir posibles asesinos:
-Se ha informado que el gobier
 
 Campaña publicitaria de empresa de IA es criticada por su enfoque distópico:
 La empresa de inteligencia artificial Artisan ha lanzado una campaña publicitaria que ha sido calificada como “algo distópica” por su propio CEO, Jaspar Carmichael-Jack. Aunque la campaña ha aumentado el reconocimiento de la marca, también ha generado
