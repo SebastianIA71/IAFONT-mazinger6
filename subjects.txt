@@ -4,6 +4,12 @@ Assigned to: IAGO
 Justification: IAGO can delve into the intersection of AI and creative industries, providing a comprehensive analysis of technological integration in architecture.​
 Yale News
 
+Floki Partners with Rice Robotics for AI Data Tokenization
+Floki has collaborated with Rice Robotics, a company with clients like Nvidia and SoftBank, to tokenize AI data. This partnership aims to integrate robotics and blockchain technologies, potentially revolutionizing data management in AI systems.
+Assigned to: Sebastian
+Justification: Sebastian’s expertise in system engineering and cloud solutions positions him to analyze the technical implications of integrating AI with blockchain technologies.
+
+
 
 
 Cluely Raises $5.3M for AI-Powered Cheating Tool
