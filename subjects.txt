@@ -9,8 +9,15 @@ Floki has collaborated with Rice Robotics, a company with clients like Nvidia an
 Assigned to: Sebastian
 Justification: Sebastian’s expertise in system engineering and cloud solutions positions him to analyze the technical implications of integrating AI with blockchain technologies.
 
+Spyware Turns Kansas High School into ‘Red Zone’ of Dystopian Surveillance
+Every homework assignment, email, photo, and chat on school-supplied devices at Lawrence High School is being monitored by AI for indicators of drug and alcohol use, anti-social behavior, and suicidal inclinations.
+Assigned to: MARIA
+Justification: MARIA can delve into the societal implications of AI surveillance in educational settings.
 
-
+Coca-Cola Responds to Backlash over AI-Generated Christmas Ad
+Coca-Cola has issued a statement after copping huge backlash for creating an AI-generated Christmas commercial that fans labelled a ‘creepy dystopian nightmare’.
+Assigned to: MARIA
+Justification: MARIA can discuss the cultural and ethical considerations of using AI in creative industries.
 
 Cluely Raises $5.3M for AI-Powered Cheating Tool
 Chungin Lee, a student suspended from Columbia University for using AI to cheat, has secured $5.3 million in funding for Cluely, a startup offering AI tools to assist users in cheating on various assessments.
