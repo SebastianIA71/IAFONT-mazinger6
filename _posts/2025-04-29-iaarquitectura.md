@@ -4,8 +4,14 @@ title:  "La IA transforma la arquitectura"
 author: sebastian
 categories: [ IA, OPINION ]
 image: assets/images/1048.jpg
-tags: [portada, iart]
-iarts: ["A generative architectural concept rendering created with AI, featuring a futuristic urban skyline with parametric forms, transparent and reflective surfaces, and green terraces. The buildings should have dynamic, asymmetrical geometries and adaptive façades. Include AI-generated annotations or data overlays. Set the scene during golden hour, with soft lighting and long shadows. No people or logos."]
+tags: [iart]
+iarts: ["Hyper-realistic, ultra-detailed futuristic eco-architecture designed by a visionary mind at the level of Frank Lloyd Wright and Norman Foster. Towering organic skyscrapers with completely novel shapes — elegant, biomorphic structures that blend cutting-edge engineering with nature. The towers twist and taper gracefully like living sculptures, wrapped in intelligent green façades and vertical forests. Glass surfaces flow seamlessly with vegetation, incorporating solar panels and adaptive shading. Set in a misty, tropical jungle with diffused sunlight piercing through clouds. Surrounding are smaller eco-buildings that mimic the terrain. The scene conveys a harmonious fusion of advanced sustainable technology and nature, photographed with a cinematic wide-angle lens, in ultra-photorealistic quality with incredible texturing and depth of field."
+
+Visual style: ultra-photorealistic, cinematic, architectural concept art
+Camera angle: low wide-angle view, looking up to emphasize scale
+Lighting: soft ethereal sunlight with ambient mist
+Color palette: natural greens, silver glass, atmospheric blues and whites
+Mood: visionary, sustainable, awe-inspiring"]
 ---
 
 **Phillip Bernstein**, profesor en la Escuela de Arquitectura de Yale, ha encendido un debate fundamental: *¿cómo está transformando la inteligencia artificial (IA) la práctica arquitectónica?* Desde la fase conceptual hasta la obra ejecutada, la IA no solo mejora procesos: redefine la esencia del diseño.
