@@ -4,7 +4,7 @@ title:  "La IA puede hacerte mejor guitarrista (y te contamos cómo)"
 author: sebastian
 categories: [IA, EDUCACION, TUTORIAL, ARTE DIGITAL]
 image: assets/images/1041.jpg
-tags: [featured, iart]
+tags: [featured]
 iarts: ["a futuristic guitarist practicing with an AI hologram coach in a modern studio"]
 ---
 
