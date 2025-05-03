@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Google reimagina 'El Mago de Oz' con IA en el Sphere de Las Vegas"
