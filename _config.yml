@@ -1,6 +1,8 @@
 # Site
+
 name: 'IAfont'
 motto: 'Data speaks louder'
+title: "IAFont - Inteligencia Artificial, Automatización y Transformación Digital"
 description: 'IAfont es un espacio personal, donde tratamos de dar a conocer la información más relevante.. y también la más distópica en el ámbito de la Inteligencia Artificial'
 logo: '/assets/images/logo.png'
 favicon: '/assets/images/favicon.ico'
