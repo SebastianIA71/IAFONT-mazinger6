@@ -1,15 +1,12 @@
 ---
 layout: post
 title:  "Robots vs Humanos: La nueva era del maratón en China"
-author: sebastian, iago
+author: sebastian
 categories: [IA, ROBOTICA, CULTURA]
-image: assets/images/2025.jpg
-tags: [portada, featured, iart]
+image: assets/images/1051.jpg
+tags: [featured, iart]
 iarts: ["A group of humanoid robots running in a marathon alongside humans, futuristic city background, dynamic motion, cinematic lighting, photorealistic, freepik style"]
 ---
-
-# Robots vs Humanos: La nueva era del maratón en China
-
 La tecnología avanza a pasos agigantados y, a veces, literalmente. **Más de 20 robots humanoides** participaron recientemente en un **medio maratón en China**, desafiando a corredores humanos en una competencia que no solo puso a prueba la resistencia, sino también la innovación. Este evento histórico marca un antes y un después en la relación entre el deporte y la robótica, impulsando nuevas reflexiones sobre el futuro inmediato.
 
 ## El escenario: tecnología sobre dos piernas
