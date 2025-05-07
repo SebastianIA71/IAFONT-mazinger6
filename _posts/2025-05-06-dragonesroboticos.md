@@ -5,7 +5,9 @@ author: iago
 categories: [ROBOTICA, CULTURA, OPINION]
 image: assets/images/1052.jpg
 tags: [featured, iart]
-iarts: ["Un perro robot disfrazado de dragón, en un parque temático, estilo hiperrealista, fondo mágico y lleno de gente, ultra detallado."]
+iarts: ["Ultra-realistic image of a medieval fantasy scene featuring a young male adventurer dressed in a detailed warrior costume. His outfit includes brown leather armor with scale-like textures, green undergarments, reinforced boots with metallic accents, and leather bracers with intricate patterns. Standing next to him is a large, highly detailed black dragon designed as a robotic android. The dragon has a sleek body combining matte metallic plates with reptilian-textured synthetic skin. Some sections reveal mechanical joints, subtle glowing blue circuits under the surface, and finely crafted hydraulic components. Its eyes are vivid green with a faint digital glow, enhancing the impression of intelligent machinery. The dragon’s wings, folded at its sides, are a blend of dark synthetic leather and flexible metal. A realistic leather harness with metallic buckles and cables is attached. The setting is a rustic wooden structure with thick beams and stone flooring, and baskets filled with fruits visible in the background. The atmosphere is bright and welcoming, with warm natural light highlighting the detailed textures of wood, leather, synthetic skin, and metallic elements.
+
+Important: The image size must be exactly 1344 x 768 pixels."]
 ---
 
 Universal Studios ha vuelto a sorprendernos con su innovación tecnológica. El parque ha incorporado **perros robot** disfrazados de **dragones** como parte de su nueva atracción temática, combinando creatividad, ingeniería avanzada y espectáculo. Esta original estrategia no solo moderniza el entretenimiento, sino que también marca un hito en la evolución de la robótica aplicada al ocio.
