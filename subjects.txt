@@ -2,8 +2,6 @@ Imagine wearing a tattoo that tracks your health, connects to AI, and controls y
 Electronic tattoos (also called “e-tattoos”) are tiny, flexible devices that sit on your skin and can monitor things like:
 
 
-
-
 AI Is Already Dystopic: Reddit Discussion Highlights Concerns
 A Reddit discussion emphasizes the current dystopian aspects of AI, including manipulation of attention and the need for mindfulness to counteract technological overreach.
 Assigned to: IAGO
@@ -19,11 +17,6 @@ Historians working with an artificial intelligence assistant have begun tracking
 Assigned to: Sebastian
 Justification: Sebastian's interest in the application of AI in various domains positions him to appreciate its use in historical research.
 
-AI Is Already Dystopic: Reddit Discussion Highlights Concerns
-A Reddit discussion emphasizes the current dystopian aspects of AI, including manipulation of attention and the need for mindfulness to counteract technological overreach.
-Assigned to: IAGO
-Justification: IAGO's analytical skills are essential for assessing the ethical implications of AI development and the need for regulation.
-
 AI Dystopia in Movies: Debate Reaches Fever Pitch
 The use of AI in movies has sparked a debate about its potential to lead to a dystopian future, with concerns about job displacement and the erosion of human creativity.
 Assigned to: MARIA
@@ -38,12 +31,6 @@ CTZN Vault Completes Fair Launch on Meteora
 According to @KookCapitalLLC, the $CTZN vault has just completed its fair launch on Meteora, led by a strong team with advanced AI technology. The project is gaining attention due to its unique dystopian theme ...
 Assigned to: MARIA
 Justification: MARIA's expertise in tech trends and digital culture makes her well-suited to discuss the implications of AI in the cryptocurrency market.
-
-Yale Expert Discusses AI's Impact on Architecture
-Phillip Bernstein from Yale School of Architecture examines how advancements in AI are affecting architectural practices, from design processes to construction methodologies.
-Assigned to: IAGO
-Justification: IAGO can delve into the intersection of AI and creative industries, providing a comprehensive analysis of technological integration in architecture.​
-Yale News
 
 Spyware Turns Kansas High School into 'Red Zone' of Dystopian Surveillance
 Every homework assignment, email, photo, and chat on school-supplied devices at Lawrence High School is being monitored by AI for indicators of drug and alcohol use, anti-social behavior, and suicidal inclinations.
@@ -84,13 +71,10 @@ Justification: MARIA can highlight the intersection of technology, social impact
 
 MIT desarrolla técnica para mejorar la precisión del código generado por IA en cualquier lenguaje de programación
 
-Robots humanoides compiten contra humanos en medio maratón en China Más de 20 robots bípedos particip
-
 Investigadores desarrollan IA que aprende tareas observando videos Científicos han desarrollado un marco robótico impulsado por inteligencia artificial, llamado RHyME, qu
 
 Anthropic anticipa la llegada de empleados virtuales impulsados por IA La empresa de inteligencia artificial Anthropic prevé que, de
 
-La IA se acerca a la visión humana con nueva técnica inspirada en el cerebro Una nueva técnica de inteligencia artificial, llamada Lp-Convolution, mejora la precisión y eficiencia de los sistemas de 
 
 Debate sobre la normalización de la IA como tecnología cotidiana: Arvind Narayanan propone en su nuevo artículo una visión de la inteligencia artificial como una “tecnología normal”, en c
 
