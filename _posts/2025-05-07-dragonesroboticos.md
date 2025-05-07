@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Dragones Robóticos: La Nueva Magia de Universal Studios"
