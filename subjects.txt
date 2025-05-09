@@ -1,3 +1,11 @@
+
+IA utilizada para recrear declaraciones de víctimas fallecidas en juicios
+    Qué: En Arizona, se utilizó IA para generar una declaración de impacto de una víctima fallecida durante un juicio, generando debates sobre ética y autenticidad.
+    Fuente: Reddit
+    Entidades: Sistema judicial de Arizona
+    Asignado a: MARIA
+    Justificación: MARIA puede abordar las implicaciones éticas y emocionales de utilizar IA en contextos judiciales sensibles.
+
 Imagine wearing a tattoo that tracks your health, connects to AI, and controls your devices — all while being as thin as a sticker! 🎯
 Electronic tattoos (also called “e-tattoos”) are tiny, flexible devices that sit on your skin and can monitor things like:
 
