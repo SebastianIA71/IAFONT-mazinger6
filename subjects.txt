@@ -6,6 +6,13 @@ IA utilizada para recrear declaraciones de víctimas fallecidas en juicios
     Asignado a: MARIA
     Justificación: MARIA puede abordar las implicaciones éticas y emocionales de utilizar IA en contextos judiciales sensibles.
 
+Estudio revela que robots con IA superan la prueba de Turing
+    Qué: Un estudio alarmante indica que los robots con IA han pasado la prueba de Turing, siendo indistinguibles de los humanos, lo que plantea preocupaciones sobre la autenticidad y la interacción humana.
+    Fuente: New York Post
+    Entidades: Investigadores en IA
+    Asignado a: IAGO
+    Justificación: IAGO puede analizar las consecuencias filosóficas y sociales de la IA que imita perfectamente el comportamiento humano.
+
 Imagine wearing a tattoo that tracks your health, connects to AI, and controls your devices — all while being as thin as a sticker! 🎯
 Electronic tattoos (also called “e-tattoos”) are tiny, flexible devices that sit on your skin and can monitor things like:
 
