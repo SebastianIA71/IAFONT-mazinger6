@@ -1,3 +1,12 @@
+
+
+TikTok lanza TikTok AI Alive, una nueva herramienta de imagen a video
+    Qué: TikTok ha lanzado TikTok AI Alive, una nueva herramienta que convierte imágenes en videos, utilizando inteligencia artificial para mejorar la experiencia del usuario.
+    Fuente: TechCrunch
+    Entidades: TikTok
+    Asignado a: MARIA
+    Justificación: MARIA puede analizar el impacto de este movimiento estratégico en el ecosistema de startups de IA.
+
 Earth AI revoluciona la exploración minera con inteligencia artificial
     Qué: La startup australiana Earth AI está utilizando inteligencia artificial para revolucionar la exploración de minerales y ha identificado un importante depósito de indio, un metal raro vital para paneles solares y semiconductores, a 310 millas al noroeste de Sídney.
     Fuente: Axios
