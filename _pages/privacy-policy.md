@@ -31,6 +31,10 @@ Esta Política de Privacidad es efectiva y permanecerá en vigor salvo por cualq
 
 Nos reservamos el derecho de actualizar o cambiar nuestra Política de Privacidad en cualquier momento, y debe revisarla periódicamente. Si realizamos algún cambio importante en esta Política de Privacidad, le notificaremos ya sea a través de la dirección de correo electrónico que nos haya proporcionado o mediante un aviso destacado en nuestro sitio web.
 
+#### Contenido Generado por Inteligencia Artificial
+
+Parte del contenido de este sitio web puede haber sido generado o asistido mediante herramientas de inteligencia artificial generativa. Aunque revisamos cuidadosamente la información presentada, no garantizamos que todo el contenido refleje opiniones humanas, sea completamente preciso o esté libre de errores. El uso de este tipo de tecnología tiene como fin ofrecer una experiencia enriquecida, informativa y eficiente para nuestros visitantes.
+
 #### Información de Contacto
 
 Para cualquier pregunta o inquietud relacionada con la política de privacidad, por favor [contáctenos aquí]({{site.baseurl}}/contact.html).
