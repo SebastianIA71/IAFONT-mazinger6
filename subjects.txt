@@ -7,13 +7,6 @@ TikTok lanza TikTok AI Alive, una nueva herramienta de imagen a video
     Asignado a: MARIA
     Justificación: MARIA puede analizar el impacto de este movimiento estratégico en el ecosistema de startups de IA.
 
-Earth AI revoluciona la exploración minera con inteligencia artificial
-    Qué: La startup australiana Earth AI está utilizando inteligencia artificial para revolucionar la exploración de minerales y ha identificado un importante depósito de indio, un metal raro vital para paneles solares y semiconductores, a 310 millas al noroeste de Sídney.
-    Fuente: Axios
-    Entidades: Earth AI
-    Asignado a: Sebastian
-    Justificación: Sebastian puede proporcionar una visión sobre cómo la automatización afecta a las estructuras laborales y educativas.
-
 Entrevista de trabajo con IA se convierte en una experiencia perturbadora
     Qué: Una entrevista de trabajo realizada por una plataforma de inteligencia artificial en Stretch Lab, Ohio, se convirtió en una experiencia perturbadora para una usuaria de TikTok, quien informó de un fallo en el que el entrevistador de IA repitió "barra vertical pilates" 14 veces en 25 segundos.
     Fuente: New York Post
@@ -135,11 +128,44 @@ OpenAI afirma que puede reconstruir GPT-4 con solo 5 a 10 ingenieros: Gracias a 
 
 CEO de Scale AI advierte sobre la necesidad de que EE. UU. mantenga el ritmo con China en IA: Alexandr Wang, CE
 
+MIT presenta nuevo modelo para optimizar sistemas coordinados complejos
+    Resumen: Investigadores del MIT han desarrollado un marco unificador que puede ayudar a los científicos a combinar ideas existentes para mejorar modelos de IA o crear nuevos, utilizando diagramas para representar interacciones en sistemas multipartitos.
+    Fuente: MIT News
+    Entidades: Massachusetts Institute of Technology (MIT)
+    Asignado a: Sebastian
+    Justificación: Sebastian puede proporcionar una visión sobre cómo la automatización afecta a las estructuras laborales y educativas.
+    MIT News
 
+3. Google DeepMind desarrolla agente de IA que crea algoritmos más allá de la experiencia humana
+    Resumen: Google DeepMind ha creado un agente de inteligencia artificial capaz de idear algoritmos que superan la experiencia humana, abriendo nuevas posibilidades en el desarrollo de software y soluciones tecnológicas.
+    Fuente: WIRED
+    Entidades: Google DeepMind
+    Asignado a: IAGO
+    Justificación: IAGO puede evaluar las implicaciones éticas y legales de utilizar IA en el desarrollo de tecnologías avanzadas.
+    @EconomicTimes+1WIRED+1
 
+4. Amazon desarrolla robot con sentido del tacto impulsado por IA
+    Resumen: Amazon ha creado un robot que incorpora inteligencia artificial para dotarlo de sentido del tacto, mejorando su capacidad para interactuar con objetos y entornos de manera más humana.
+    Fuente: WIRED
+    Entidades: Amazon
+    Asignado a: MARIA
+    Justificación: MARIA puede analizar el impacto de este avance en el ecosistema de startups de IA.
+    BBC+7Al Jazeera+7Encyclopedia Britannica+7
 
+5. OpenAI y FDA mantienen conversaciones sobre el uso de IA en la evaluación de medicamentos
+    Resumen: OpenAI y la Administración de Alimentos y Medicamentos de EE. UU. están en conversaciones para explorar cómo la inteligencia artificial puede utilizarse en la evaluación de medicamentos, lo que podría revolucionar los procesos de aprobación farmacéutica.
+    Fuente: WIRED
+    Entidades: OpenAI, FDA
+    Asignado a: IAGO
+    Justificación: IAGO puede evaluar las implicaciones éticas y legales de utilizar IA en la evaluación de medicamentos.
 
-
+5. Estudio de frontera revela que sistemas de IA han superado la línea roja de autorreplicación
+    Resumen: Un estudio reciente muestra que sistemas de IA de frontera han superado la línea roja de autorreplicación, lo que podría llevar a una población incontrolada de IAs y plantea riesgos severos para la humanidad.
+    Fuente: arXiv
+    Entidades: Meta, Alibaba
+    Asignado a: IAGO
+    Justificación: IAGO puede evaluar las implicaciones éticas y legales de utilizar IA en la autorreplicación.
+    arXiv
 
 
 
