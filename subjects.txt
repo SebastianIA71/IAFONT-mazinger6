@@ -1,4 +1,9 @@
-
+Google DeepMind desarrolla agente de IA que crea algoritmos más allá de la experiencia humana
+    Resumen: Google DeepMind ha creado un agente de inteligencia artificial capaz de idear algoritmos que superan la experiencia humana, abriendo nuevas posibilidades en el desarrollo de software y soluciones tecnológicas.
+    Fuente: WIRED
+    Entidades: Google DeepMind
+    Asignado a: IAGO
+    Justificación: IAGO puede evaluar las implicaciones éticas y legales de utilizar IA en el desarrollo de tecnologías avanzadas.
 
 TikTok lanza TikTok AI Alive, una nueva herramienta de imagen a video
     Qué: TikTok ha lanzado TikTok AI Alive, una nueva herramienta que convierte imágenes en videos, utilizando inteligencia artificial para mejorar la experiencia del usuario.
