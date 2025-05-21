@@ -1,16 +1,12 @@
 ---
 layout: post
 title:  "SSI: La IA segura de Sutskever que respaldan Alphabet y Nvidia"
-author: sebastian, iago
+author: iago
 categories: [IA, OPINION]
-image: assets/images/2025.jpg
-tags: [portada, featured, iart]
+image: assets/images/1061.jpg
+tags: [featured]
 iarts: ["a futuristic AI lab with glowing blue circuitry, researchers working in glass rooms, and secure digital locks everywhere. Hyperrealistic style, cinematic lighting"]
 ---
-
-## SSI: La IA segura de Sutskever que respaldan Alphabet y Nvidia
-
-### Un nuevo comienzo tras OpenAI
 
 Cuando **Ilya Sutskever**, uno de los cofundadores y arquitecto técnico de OpenAI, anunció su salida en 2024, muchos lo interpretaron como una señal de desacuerdo con el rumbo de la compañía. Hoy, su regreso con una nueva iniciativa, **Safe Superintelligence Inc. (SSI)**, marca un punto de inflexión en el desarrollo responsable de la inteligencia artificial.
 
