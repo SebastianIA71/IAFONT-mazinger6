@@ -186,10 +186,12 @@ MIT presenta nuevo modelo para optimizar sistemas coordinados complejos
     Justificación: IAGO puede evaluar las implicaciones éticas y legales de utilizar IA en la autorreplicación.
     arXiv
 
-
-
-
-
+3. Anthropic experimenta una gran demanda de sus modelos de IA en el Reino Unido
+    Resumen: Anthropic, una startup de inteligencia artificial fundada por exejecutivos de OpenAI, está experimentando una demanda significativa de sus modelos de IA en el Reino Unido, lo que marca un crecimiento impresionante en la región. La compañía planea expandirse creando 100 nuevos puestos en Europa, incluyendo Londres.
+    Entidades: Anthropic
+    Asignado a: MARIA
+    Justificación: MARIA puede analizar cómo esta expansión afecta al ecosistema de startups de IA y al mercado laboral en Europa.
+    The Times
 
 
 
