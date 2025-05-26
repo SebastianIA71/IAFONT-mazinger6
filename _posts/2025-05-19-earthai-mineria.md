@@ -52,9 +52,6 @@ Lo más interesante de este avance no es solo lo que descubre, sino *cómo lo ha
 
 3. **La formación académica y técnica:**  
    Los centros de formación profesional y las universidades deberán adaptarse a esta realidad, ofreciendo **programas híbridos que combinen ciencia de datos, IA aplicada y geología**.
-
-👩‍🏫 Ejemplo: el programa de [Data Science for the Geosciences](https://www.imperial.ac.uk/earth-science/prospective-students/postgraduate-taught/data-science/) en Imperial College London.
-
 ---
 
 ## Recomendaciones para profesionales y estudiantes
