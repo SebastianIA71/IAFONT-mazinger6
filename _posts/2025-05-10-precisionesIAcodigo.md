@@ -8,7 +8,7 @@ tags: [ featured]
 iarts: ["A hyperrealistic illustration of a humanoid AI assistant writing code at a futuristic workstation, surrounded by floating screens with Python, Java, and C++ syntax. The background resembles the MIT CSAIL lab with modern digital architecture and abstract logic diagrams glowing in soft blue light. Style of a high-end tech magazine. No text."]
 ---
 
-En un entorno donde la inteligencia artificial (IA) ya escribe código con la velocidad de un desarrollador senior, el problema no es la cantidad sino la **calidad** del código. Y ahí es donde entra el último avance del [Massachusetts Institute of Technology (MIT)](https://news.mit.edu/2024/ai-specifications-better-code-0408): una técnica que mejora significativamente la **precisión del código generado por IA**, sin importar el lenguaje de programación utilizado.
+En un entorno donde la inteligencia artificial (IA) ya escribe código con la velocidad de un desarrollador senior, el problema no es la cantidad sino la **calidad** del código. Y ahí es donde entra el último avance del Massachusetts Institute of Technology (MIT): una técnica que mejora significativamente la **precisión del código generado por IA**, sin importar el lenguaje de programación utilizado.
 
 Esta innovación, desarrollada en el laboratorio [CSAIL (Computer Science and Artificial Intelligence Laboratory)](https://www.csail.mit.edu/), se presenta como una solución disruptiva en la carrera por convertir a la IA en un asistente de desarrollo realmente fiable. Hablamos de una técnica que puede aplicarse sobre modelos existentes como [GPT](https://openai.com/research/code-davinci-002), [Codex](https://openai.com/research/code-davinci-002) o [StarCoder](https://huggingface.co/bigcode/starcoder), y que ajusta dinámicamente sus salidas para evitar errores comunes y mejorar la eficiencia del código producido.
 
@@ -22,9 +22,6 @@ La clave está en un método llamado [*SpecTr*](https://arxiv.org/abs/2404.05411
 2. **Especificaciones abstractas**: La técnica compara la salida del modelo IA con un conjunto de reglas lógicas que definen el comportamiento esperado, corrigiendo inconsistencias *en tiempo real*.
 
 Esto no requiere reentrenar modelos grandes, sino una **capa de verificación** que puede integrarse fácilmente con cualquier entorno de desarrollo asistido por IA. Es como dotar a un copiloto digital de sentido común técnico.
-
-Puedes consultar su [repositorio oficial en GitHub](https://github.com/mit-csail/SpecTr) para ver ejemplos y código en funcionamiento.
-
 ---
 
 ### **¿Por qué esto cambia el juego para desarrolladores y empresas?**
@@ -55,7 +52,7 @@ Imagina tener una IA que no solo programa, sino que *entiende* el propósito del
 
 1. **Explorar herramientas IA open-source** como [StarCoder](https://huggingface.co/bigcode/starcoder) y experimentar integraciones con validadores de lógica.
 2. **Formarnos en lenguajes formales y teoría de verificación** (SAT solvers, SMT, etc.), ya que serán el nuevo terreno de juego para programadores.
-3. **Implementar pruebas semánticas** en nuestro flujo CI/CD. Algunas plataformas como [CircleCI](https://circleci.com/blog/static-code-analysis/) ya permiten este tipo de análisis.
+3. **Implementar pruebas semánticas** en nuestro flujo CI/CD. Algunas plataformas como CircleCI ya permiten este tipo de análisis.
 
 Este tipo de avances nos acercan a una IA que no solo “completa” código, sino que **colabora activamente** en su robustez.
 
