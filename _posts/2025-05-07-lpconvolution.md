@@ -14,7 +14,7 @@ La inteligencia artificial (IA) sigue dando pasos de gigante para acercarse cada
 La **[Lp-Convolution](https://arxiv.org/abs/2403.06690)** es una nueva técnica de procesamiento de imágenes que replantea cómo las **[redes neuronales convolucionales (CNNs)](https://es.wikipedia.org/wiki/Red_neuronal_convolucional)** manejan los datos visuales. A diferencia de las convoluciones tradicionales, que tratan las imágenes de forma homogénea, **Lp-Convolution adapta su respuesta en función de las características locales de la imagen**, de manera similar a cómo nuestro sistema visual se enfoca en áreas específicas de interés.
 
 Este avance se basa en:
-- **Simulación más precisa de la atención visual humana**, apoyada en estudios de **[neurociencia visual](https://www.sciencedirect.com/science/article/abs/pii/S0896627317308281)**.
+- **Simulación más precisa de la atención visual humana**, apoyada en estudios de **neurociencia visual**.
 - **Mayor flexibilidad en el procesamiento de diferentes tipos de patrones y texturas**.
 - **Reducción del coste computacional**, permitiendo modelos más ligeros y rápidos.
 
@@ -31,13 +31,13 @@ Las mejoras son espectaculares:
 
 Algunas de las aplicaciones inmediatas incluyen:
 - **Vehículos autónomos**: Mejor reconocimiento de obstáculos como exploran **[Tesla](https://www.tesla.com/AI)** o **[Waymo](https://waymo.com/)**.
-- **Medicina**: Diagnóstico por imagen más rápido y con menor tasa de error siguiendo líneas de trabajo como las de **[DeepMind Health](https://deepmind.google/discover/deepmind-health/)**.
+- **Medicina**: Diagnóstico por imagen más rápido y con menor tasa de error siguiendo líneas de trabajo como las de **DeepMind Health**.
 - **Seguridad**: Vigilancia inteligente, como desarrollan empresas como **[AnyVision](https://www.anyvision.co/)**.
 - **Retail y marketing**: Análisis de comportamiento en tienda tipo **[Amazon Go](https://www.amazon.com/b?node=16008589011)**.
 
 ## **¿Cómo prepararnos para este cambio?**
 
-- **Formación continua** en **[redes neuronales profundas](https://es.wikipedia.org/wiki/Red_neuronal_profundas)** y nuevas arquitecturas.
+- **Formación continua** en **redes neuronales profundas** y nuevas arquitecturas.
 - **Actualización tecnológica** de nuestras infraestructuras de IA.
 - **Anticipación estratégica** para integrar antes que la competencia estas nuevas capacidades.
 
