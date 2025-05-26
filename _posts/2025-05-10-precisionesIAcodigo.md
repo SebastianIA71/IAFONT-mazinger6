@@ -4,13 +4,13 @@ title:  "MIT afina la IA: código más preciso en cualquier lenguaje"
 author: iago
 categories: [IA, EDUCACION, RECURSOS HUMANOS]
 image: assets/images/1054.jpg
-tags: [ featured]
+tags: [featured]
 iarts: ["A hyperrealistic illustration of a humanoid AI assistant writing code at a futuristic workstation, surrounded by floating screens with Python, Java, and C++ syntax. The background resembles the MIT CSAIL lab with modern digital architecture and abstract logic diagrams glowing in soft blue light. Style of a high-end tech magazine. No text."]
 ---
 
 En un entorno donde la inteligencia artificial (IA) ya escribe código con la velocidad de un desarrollador senior, el problema no es la cantidad sino la **calidad** del código. Y ahí es donde entra el último avance del Massachusetts Institute of Technology (MIT): una técnica que mejora significativamente la **precisión del código generado por IA**, sin importar el lenguaje de programación utilizado.
 
-Esta innovación, desarrollada en el laboratorio [CSAIL (Computer Science and Artificial Intelligence Laboratory)](https://www.csail.mit.edu/), se presenta como una solución disruptiva en la carrera por convertir a la IA en un asistente de desarrollo realmente fiable. Hablamos de una técnica que puede aplicarse sobre modelos existentes como [GPT](https://openai.com/research/code-davinci-002), [Codex](https://openai.com/research/code-davinci-002) o [StarCoder](https://huggingface.co/bigcode/starcoder), y que ajusta dinámicamente sus salidas para evitar errores comunes y mejorar la eficiencia del código producido.
+Esta innovación, desarrollada en el laboratorio [CSAIL (Computer Science and Artificial Intelligence Laboratory)](https://www.csail.mit.edu/), se presenta como una solución disruptiva en la carrera por convertir a la IA en un asistente de desarrollo realmente fiable. Hablamos de una técnica que puede aplicarse sobre modelos existentes como [GPT], [Codex] o [StarCoder](https://huggingface.co/bigcode/starcoder), y que ajusta dinámicamente sus salidas para evitar errores comunes y mejorar la eficiencia del código producido.
 
 ---
 
