@@ -13,7 +13,7 @@ Cuando **Ilya Sutskever**, uno de los cofundadores y arquitecto técnico de Open
 **SSI** nace con un enfoque inédito: desarrollar **una superinteligencia artificial segura desde el inicio**, sin distracciones comerciales ni intereses externos. Esta visión ha captado rápidamente la atención (y el capital) de gigantes como **Alphabet** (matriz de Google) y **Nvidia**, que han decidido invertir en la startup en una etapa temprana.
 
 📌 [Noticia oficial en Reuters](https://www.reuters.com/technology/alphabet-nvidia-invest-ai-startup-founded-by-former-openai-scientist-wsj-2024-05-20/)  
-📌 [Artículo en The Verge sobre la creación de SSI](https://www.theverge.com/2024/6/20/24183447/ilya-sutskever-safe-superintelligence-openai-founder)
+📌 [Artículo en The Verge sobre la creación de SSI](https://www.theverge.com/2024/12/13/24320811/what-ilya-sutskever-sees-openai-model-data-training)
 
 ### ¿Qué diferencia a SSI de otras startups de IA?
 
