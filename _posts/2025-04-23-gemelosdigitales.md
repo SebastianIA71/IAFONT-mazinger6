@@ -4,8 +4,7 @@ title:  "Gemelos digitales para aeronaves"
 author: iago
 categories: [IA, ROBOTICA]
 image: assets/images/1043.png
-tags: [featured]
-iarts: ["A futuristic robotic drone scanning an aircraft with digital blueprints overlay, cyberpunk style, high tech background"]
+tags: []
 ---
 
 [**Gecko Robotics**](https://www.geckorobotics.com) y [**L3Harris Technologies**](https://www.l3harris.com) están redefiniendo la forma en que entendemos el mantenimiento aeronáutico gracias al uso de *gemelos digitales*, una tecnología que permite realizar inspecciones y reparaciones de forma remota y con precisión quirúrgica.
