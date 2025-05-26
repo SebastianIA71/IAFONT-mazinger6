@@ -30,8 +30,6 @@ El respaldo de **Alphabet y Nvidia** puede parecer contradictorio, ya que ambas 
 - **Alphabet** quiere asegurarse de que existan alternativas más éticas y estables al crecimiento explosivo y, a veces, errático de compañías como OpenAI y Anthropic.  
 - **Nvidia**, por su parte, se beneficia de apoyar a cualquier actor que requiera grandes capacidades de cómputo para entrenamiento intensivo de modelos, al tiempo que diversifica su cartera ética.
 
-📌 [Análisis en Wired: “Why Safe Superintelligence Is a New Kind of AI Lab”](https://www.wired.com/story/safe-superintelligence-ilya-sutskever-ai-openai/)
-
 ### ¿Una crítica velada a OpenAI?
 
 El nacimiento de SSI no puede entenderse sin el contexto de la transformación de OpenAI. Aquella organización sin fines de lucro que en 2015 prometía construir una IA para el bien común ha mutado hacia una empresa con fines comerciales, profundamente integrada en el ecosistema Microsoft.
@@ -45,8 +43,6 @@ Aunque SSI no ha lanzado aún ningún producto ni modelo público, su sola exist
 SSI nos plantea una pregunta incómoda pero urgente: *¿podemos crear una IA más inteligente que los humanos sin perder el control sobre ella?*
 
 La mayoría de las empresas del sector, en la práctica, están apostando por una solución posterior: **crear primero, regular después**. Sutskever y su equipo invierten esa lógica. SSI **no lanzará nada hasta que tenga la certeza de que puede controlarse**.
-
-📌 [Entrevista completa a Ilya Sutskever en MIT Technology Review](https://www.technologyreview.com/2024/06/19/1082353/ilya-sutskever-safe-superintelligence-vision/)
 
 ### FAQs
 
