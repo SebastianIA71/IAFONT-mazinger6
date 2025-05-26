@@ -4,8 +4,7 @@ title:  "IA en los tribunales: ¿avance o amenaza?"
 author: sebastian
 categories: [IA, OPINION, RECURSOS HUMANOS]
 image: assets/images/1040.jpg
-tags: [featured]
-iarts: ["Un avatar humanoide con toga y maletín, en un tribunal moderno, generado con IA"]
+tags: []
 ---
 En un episodio digno de una serie distópica, un juez del estado de Nueva York **suspendió de inmediato una audiencia judicial** tras descubrir que el abogado defensor que comparecía en vídeo era, en realidad, un *avatar generado por inteligencia artificial*. El responsable, un hombre de 74 años sin credenciales legales válidas, intentó representarse a sí mismo usando esta tecnología avanzada, sin informar previamente al tribunal.
 
