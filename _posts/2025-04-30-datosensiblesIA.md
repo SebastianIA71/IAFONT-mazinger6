@@ -8,7 +8,7 @@ tags: [featured]
 iarts: ["una imagen conceptual que represente datos corporativos fluyendo hacia una inteligencia artificial como si fuera un embudo de información confidencial"]
 ---
 
-Según un reciente informe de [Cyberhaven](https://www.cyberhaven.com/resources/reports/ai-data-leak-report), **el 34,8% de los datos que las empresas introducen en herramientas de inteligencia artificial son sensibles**. Esta cifra, alarmante por sí sola, representa un aumento de más del 40% respecto al año anterior. Y sí, hablamos de *código fuente, evaluaciones de empleados, planes estratégicos y más*.
+Según un reciente informe de Cyberhaven, **el 34,8% de los datos que las empresas introducen en herramientas de inteligencia artificial son sensibles**. Esta cifra, alarmante por sí sola, representa un aumento de más del 40% respecto al año anterior. Y sí, hablamos de *código fuente, evaluaciones de empleados, planes estratégicos y más*.
 
 ---
 
@@ -53,7 +53,7 @@ Desde nuestra experiencia en automatización, IA y transformación digital, te r
 Incluye ejemplos concretos, como "no subir código fuente" o "no compartir documentos de RRHH".
 
 **Forma a tu equipo**  
-Especialmente en departamentos como desarrollo, compliance y recursos humanos. Herramientas como [AI Literacy](https://www.ailiteracy.org/) pueden ayudar.
+Especialmente en departamentos como desarrollo, compliance y recursos humanos. Herramientas como AI Literacy pueden ayudar.
 
 **Despliega modelos controlados**  
 Usa modelos *on-premise* o en tu propia nube con herramientas como [PrivateGPT](https://github.com/imartinez/privateGPT) o [LlamaIndex + LangChain](https://www.llamaindex.ai/).
