@@ -19,7 +19,7 @@ Mood: visionary, sustainable, awe-inspiring"]
 
 Durante décadas, la evolución del diseño arquitectónico pasó por fases bien definidas: dibujo manual, AutoCAD, BIM. Hoy, la IA abre una cuarta etapa: el diseño generativo, donde algoritmos como **DALL·E**, **Midjourney**, **Spacemaker AI** o **Hypar** generan cientos de alternativas creativas en cuestión de segundos.
 
-> “El diseño ya no parte de una sola idea genial, sino de un diálogo con miles de soluciones potenciales”, explica Bernstein ([Yale News](https://news.yale.edu/2024/04/27/yale-expert-ai-architecture)).
+> “El diseño ya no parte de una sola idea genial, sino de un diálogo con miles de soluciones potenciales”, explica Bernstein.
 
 Esto convierte al arquitecto en curador: menos ejecutor, más editor. ¿El objetivo? Aprovechar la capacidad de la IA para explorar límites antes impensables en sostenibilidad, eficiencia o estética.
 
