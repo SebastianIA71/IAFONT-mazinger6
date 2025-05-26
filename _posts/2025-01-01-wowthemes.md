@@ -4,7 +4,7 @@ title:  "WowThemes: El tema perfecto para blogs técnicos, minimalistas y potent
 author: iago
 categories: [ IA, tutorial ]
 image: assets/images/1000.jpg
-tags: featured
+tags: 
 ---
 En el mundo del desarrollo web y la generación de contenido técnico, la elección del *theme* correcto puede marcar una gran diferencia en la percepción de calidad, velocidad y usabilidad de un sitio. **Mundana Jekyll Theme by WowThemes** se ha consolidado como una de las opciones más valoradas entre bloggers, desarrolladores y profesionales del mundo IT gracias a su diseño limpio, funcional y altamente adaptable.
 
