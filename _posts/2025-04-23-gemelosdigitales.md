@@ -39,8 +39,6 @@ Este enfoque traslada el mantenimiento de lo reactivo a lo *predictivo*, aumenta
 
 💡 *El resultado: inspección sin desmontaje, diagnósticos instantáneos y mantenimiento planificado al detalle.*
 
-Puedes leer más sobre esta aplicación en [Aerospace Tech Review](https://www.aerospacetechreview.com/digital-twin-aircraft-maintenance/)
-
 ---
 
 ## Beneficios clave para la industria aérea
@@ -64,7 +62,7 @@ En sectores críticos como la defensa, donde cada minuto de disponibilidad cuent
 
 Recomendamos a los profesionales de ingeniería, IA, mantenimiento e infraestructura digital comenzar a formarse en:
 
-- [**IoT Industrial (IIoT)**](https://www.cisco.com/c/en/us/solutions/internet-of-things/industrial-iot.html)
+- **IoT Industrial (IIoT)**
 - **Robótica aplicada al mantenimiento**
 - **Gemelos digitales y análisis predictivo**
 
