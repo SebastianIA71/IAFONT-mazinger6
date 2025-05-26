@@ -4,8 +4,7 @@ title: "Google reimagina 'El Mago de Oz' con IA en el Sphere de Las Vegas"
 author: iago
 categories: [IA, ARTE DIGITAL, CULTURA]
 image: assets/images/1050.jpg
-tags: [featured]
-iarts: ["An immersive, AI-generated futuristic version of The Wizard of Oz, set inside a massive technological sphere with glowing lights and holographic characters"]
+tags: []
 ---
 
 
