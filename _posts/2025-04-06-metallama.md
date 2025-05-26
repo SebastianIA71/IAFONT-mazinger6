@@ -4,7 +4,7 @@ title:  "Meta revoluciona la inteligencia artificial con el lanzamiento de Llama
 author: iago
 categories: [ IA, LLM ]
 image: assets/images/1030.jpg
-tags: [featured]
+tags: []
 ---
 **Meta Platforms** ha dado un paso significativo en el ámbito de la inteligencia artificial (IA) con la presentación de su nueva familia de modelos, **Llama 4**. Esta colección incluye los modelos **Llama 4 Scout**, **Llama 4 Maverick** y una vista previa de **Llama 4 Behemoth**, cada uno diseñado para ofrecer soluciones avanzadas y versátiles en el procesamiento de datos *multimodales*. Este lanzamiento refuerza el compromiso de Meta con la innovación abierta y la accesibilidad en el campo de la IA.
 
