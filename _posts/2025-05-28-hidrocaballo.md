@@ -15,7 +15,7 @@ Más información: [Artículo de Xpert Digital](https://xpert.digital/es/kawasak
 
 ---
 
-## 💨 ¿Por qué hidrógeno y no baterías eléctricas?
+##  ¿Por qué hidrógeno y no baterías eléctricas?
 
 El motor de **150 cc** de Corleo convierte hidrógeno en electricidad, lo que alimenta las patas robóticas. Este enfoque ofrece ventajas respecto a las baterías tradicionales:
 
@@ -27,7 +27,7 @@ Kawasaki no es nueva en esta tecnología: lleva años invirtiendo en la cadena c
 
 ---
 
-## 🤖 ¿Para qué sirve un caballo-robot?
+##  ¿Para qué sirve un caballo-robot?
 
 Aunque su estética pueda parecer exótica, Corleo tiene **aplicaciones prácticas reales**:
 
@@ -40,7 +40,7 @@ La capacidad de alternar entre modo cuadrúpedo y ruedas mejora su versatilidad.
 
 ---
 
-## 🛠️ Tecnología modular y visión futura
+## Tecnología modular y visión futura
 
 Corleo es parte de una línea de prototipos que Kawasaki engloba en su iniciativa **Kawasaki DX**. Está dotado con sensores para navegación autónoma, detección de obstáculos y software de control adaptativo.
 
@@ -50,7 +50,7 @@ Más detalles técnicos: [Presentación oficial de Kawasaki DX (PDF)](https://gl
 
 ---
 
-## ❓Preguntas frecuentes (FAQs)
+## Preguntas frecuentes (FAQs)
 
 **¿Qué velocidad alcanza Corleo?**
 Actualmente se mueve a paso humano, aunque se planean mejoras para velocidad y carga.
@@ -63,7 +63,7 @@ Kawasaki ha indicado que versiones operativas podrían llegar al mercado en **20
 
 ---
 
-## ✅ Conclusión: galopando hacia el futuro limpio
+## Conclusión: galopando hacia el futuro limpio
 
 Corleo no es solo una curiosidad tecnológica. Representa una **visión posible del transporte sostenible** en áreas donde otros vehículos no llegan. Si unimos robótica avanzada con energías limpias, abrimos la puerta a un mundo donde incluso los caballos pueden ser *inteligentes y ecológicos*.
 
