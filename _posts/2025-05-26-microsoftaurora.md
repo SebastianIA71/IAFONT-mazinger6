@@ -15,7 +15,7 @@ This launch marks a pivotal moment where **deep learning meets atmospheric scien
 
 ---
 
-## 🌍 Aurora: Not Just Another Weather Model
+## Aurora: Not Just Another Weather Model
 
 Forget what you thought you knew about weather prediction. **Aurora is not a traditional forecast system**. It’s a *foundation model* built from the ground up to understand and anticipate atmospheric dynamics. Trained on **over one million hours of historical climate data**, Aurora analyzes countless global parameters with an understanding only a high-capacity neural net could achieve.
 
@@ -30,12 +30,12 @@ Aurora’s full capabilities are detailed in Microsoft Research’s official blo
 
 ---
 
-## ⚡ The Tech Behind the Storm
+## The Tech Behind the Storm
 
 Aurora draws from the same innovation playbook used to build large language models (LLMs) like GPT or Gemini — but repurposed for atmospheric modeling. It uses transformer-based architectures adapted to handle **spatio-temporal complexity**, allowing it to detect nonlinear weather patterns across regions and timeframes.
 
 The technical white paper supporting Aurora’s performance and structure is accessible via *Nature*:  
-📄 [Aurora study in Nature](https://www.nature.com/articles/s41586-025-09005-y)
+ [Aurora study in Nature](https://www.nature.com/articles/s41586-025-09005-y)
 
 This leap in speed and precision was made possible by advances in:
 
@@ -45,7 +45,7 @@ This leap in speed and precision was made possible by advances in:
 
 ---
 
-## 💼 Why the Tech Industry (and Startups) Should Care
+## Why the Tech Industry (and Startups) Should Care
 
 Aurora might sound like a tool for scientists, but its **potential for business and public services is massive**. Consider:
 
@@ -54,11 +54,11 @@ Aurora might sound like a tool for scientists, but its **potential for business 
 - **Smart cities** could activate real-time infrastructure changes based on hyper-local forecasts.
 
 Microsoft’s broader positioning of Aurora within Azure is explained in their feature article:  
-🌐 [Microsoft Source — Aurora and AI Forecasting](https://news.microsoft.com/source/features/ai/microsofts-aurora-ai-foundation-model-goes-beyond-weather-forecasting/)
+ [Microsoft Source — Aurora and AI Forecasting](https://news.microsoft.com/source/features/ai/microsofts-aurora-ai-foundation-model-goes-beyond-weather-forecasting/)
 
 ---
 
-## ☂️ A New Era of Vertical AI?
+## A New Era of Vertical AI?
 
 Aurora is part of a broader shift — from general-purpose AI to **domain-specific foundation models**. This is not just a chatbot that completes your sentences. It's an AI system that learns, adapts, and evolves within a **scientific framework**.
 
@@ -66,7 +66,7 @@ Vertical AI models like Aurora are reshaping industries with *targeted intellige
 
 ---
 
-### ❓FAQs
+### FAQs
 
 **Is Aurora replacing traditional weather models?**  
 No — it complements them. Agencies like **[ECMWF](https://www.ecmwf.int/)** and **[NOAA](https://www.noaa.gov/)** are actively researching AI augmentation to boost classical physics-based models.
@@ -78,11 +78,11 @@ Yes. Microsoft intends to provide access to Aurora via **Azure's AI infrastructu
 Aurora has been **peer-reviewed** and tested against the gold standards in forecasting. Still, like all AI, it works best when supervised and validated by experts.
 
 Check the **Washington Post’s coverage** for a broader public perspective:  
-📜 [Microsoft AI model predicts global weather with stunning speed](https://www.washingtonpost.com/weather/2025/05/21/microsoft-ai-weather-model-study/)
+ [Microsoft AI model predicts global weather with stunning speed](https://www.washingtonpost.com/weather/2025/05/21/microsoft-ai-weather-model-study/)
 
 ---
 
-## 🎯 Conclusion: Forecasting Meets the Cloud Era
+##  Conclusion: Forecasting Meets the Cloud Era
 
 Microsoft’s **Aurora** represents more than just a tech milestone — it’s a **new weather paradigm**. By merging AI innovation with global environmental modeling, Aurora empowers everyone from scientists to startups to see further, act faster, and adapt better.
 
