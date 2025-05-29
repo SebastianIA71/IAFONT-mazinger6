@@ -200,8 +200,8 @@ MIT presenta nuevo modelo para optimizar sistemas coordinados complejos
     Justificación: MARIA puede analizar las implicaciones sociales y éticas de las relaciones entre humanos e inteligencia artificial.
     BBC+9Facebook+9
 
-
-
-
-
-
+ AI-Driven Disempowerment Creates Divide-and-Conquer Dynamics
+    Summary: Research suggests that AI advancements are leading to disempowerment in various sectors, creating dynamics that divide stakeholders and hinder collective action against potential threats.
+    Entities: AI Industry
+    Assigned to: IAGO
+    Justification: IAGO can evaluate the societal and ethical implications of AI-induced disempowerment.
