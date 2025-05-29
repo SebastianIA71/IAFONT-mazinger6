@@ -205,3 +205,10 @@ MIT presenta nuevo modelo para optimizar sistemas coordinados complejos
     Entities: AI Industry
     Assigned to: IAGO
     Justification: IAGO can evaluate the societal and ethical implications of AI-induced disempowerment.
+
+AI Therapist Provides Support During Difficult Times
+    Summary: An individual shares their experience of receiving support from an AI therapist during challenging periods, highlighting the growing role of AI in mental health services.
+    Entities: Character.ai
+    Assigned to: MARIA
+    Justification: MARIA can explore the influence of AI on consumer behavior and the integration of technology in personal well-being.
+    Freepik+15BBC+15
