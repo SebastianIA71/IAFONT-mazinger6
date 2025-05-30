@@ -4,11 +4,8 @@ title:  "Computación Cuántica: Qué es y por qué importa"
 author: iago
 categories: [IA, EDUCACION]
 image: assets/images/1064.jpg
-tags: [featured, iart]
-iarts: ["a simple classroom illustration with a student looking at a glowing floating qubit model, with visual comparison of bits and qubits on a blackboard, style of a soft modern tech textbook"]
+tags: [featured]
 ---
-
-## **Computación Cuántica: Qué es y por qué importa**
 
 En un mundo donde todo parece girar en torno a la inteligencia artificial, hay otra tecnología igual o más revolucionaria que avanza de forma silenciosa pero imparable: **la computación cuántica**. Aunque suene abstracta o complicada, es más relevante para tu futuro profesional y personal de lo que imaginas.
 
