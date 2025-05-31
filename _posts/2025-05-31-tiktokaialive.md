@@ -27,6 +27,16 @@ What sets it apart is how seamlessly it integrates into TikTok’s creator flow.
 AI Alive represents a broader trend where **editing studios shrink into apps** and **complex ML tools become one-click accessible**.
 
 ---
+<div class="video-gallery">
+  <div class="video-item">
+    <video width="560" height="315" controls>
+      <source src="https://sebastiania71.github.io/IAFONT-mazinger6/assets/images/3002.mp4">      
+      Your browser does not support the video tag.
+    </video>
+  </div>
+</div>
+---
+
 
 ## The Strategic Play: AI, Virality, and Startup Disruption
 
