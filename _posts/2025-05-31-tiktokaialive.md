@@ -8,7 +8,7 @@ tags: [featured, iart]
 iarts: ["A futuristic TikTok studio with holographic screens, users editing AI-generated videos from static images, bright and trendy atmosphere"]
 ---
 
-When TikTok drops something new, it’s never just *another tool* — it’s a cultural moment. And that’s exactly what **TikTok AI Alive** promises to become. Recently unveiled and first reported by [TechCrunch](https://techcrunch.com/2024/05/27/tiktok-launches-ai-alive-image-to-video-tool/), this feature uses **generative AI** to transform static images into animated short-form video content.
+When TikTok drops something new, it’s never just *another tool* — it’s a cultural moment. And that’s exactly what **TikTok AI Alive** promises to become. Recently unveiled and first reported by TechCrunch, this feature uses **generative AI** to transform static images into animated short-form video content.
 
 In a world where attention spans are measured in seconds, turning a single photo into a captivating story is the next creative leap — and TikTok knows it.
 
