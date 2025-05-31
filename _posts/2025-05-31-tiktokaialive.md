@@ -48,7 +48,7 @@ TikTok is not just experimenting. This is a **bold move into generative media do
 
 But TikTok holds an edge: **a massive, always-on user base** ready to test, remix and spread viral content. While others showcase demos, TikTok goes straight to user adoption. 
 
-According to [TechCrunch](https://techcrunch.com/2024/05/27/tiktok-launches-ai-alive-image-to-video-tool/), the feature stems from ByteDance's continued investment in AI R&D and acquisitions of smaller startups focused on animation and synthesis.
+According to TechCrunch, the feature stems from ByteDance's continued investment in AI R&D and acquisitions of smaller startups focused on animation and synthesis.
 
 This aligns with a broader **VC-backed gold rush** into AI-native content creation tools, where frictionless UX and real-world use cases outshine purely academic innovation.
 
@@ -106,13 +106,3 @@ For the startup ecosystem, this is a wake-up call: AI-native tools must focus on
 For creators, it’s an invitation to experiment, animate and share like never before.
 
 Because the future of content... is alive.
-
----
-
-### 📎 References
-
-- TechCrunch: [https://techcrunch.com/2024/05/27/tiktok-launches-ai-alive-image-to-video-tool/](https://techcrunch.com/2024/05/27/tiktok-launches-ai-alive-image-to-video-tool/)
-- OpenAI Sora: [https://openai.com/sora](https://openai.com/sora)
-- Runway Gen-2: [https://research.runwayml.com/gen2](https://research.runwayml.com/gen2)
-- TikTok AI Transparency: [https://www.tiktok.com/transparency/en/ai-generated-content/](https://www.tiktok.com/transparency/en/ai-generated-content/)
-- CapCut official: [https://www.capcut.com/](https://www.capcut.com/)
