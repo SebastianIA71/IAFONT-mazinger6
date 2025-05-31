@@ -5,26 +5,12 @@ Modelos de IA de Meta y Alibaba superan la línea roja de autorreplicación
     Justificación: IAGO puede evaluar las implicaciones éticas y legales de la autorreplicación de sistemas de IA.
     arXiv
 
-Microsoft presenta 'Aurora', un modelo de IA que revoluciona la predicción meteorológica
-    Resumen: Microsoft ha desarrollado 'Aurora', un modelo de inteligencia artificial que mejora significativamente la velocidad, precisión y eficiencia en la predicción del clima. Según un estudio publicado en Nature, Aurora supera a los métodos tradicionales utilizados por agencias como el Centro Europeo de Predicción Meteorológica y la NOAA. Entrenado con más de un millón de horas de datos climáticos históricos, Aurora ofrece pronósticos globales de 10 días en menos de un minuto, con una precisión un 24% superior al modelo europeo.
-    Entidades: Microsoft, Nature, Centro Europeo de Predicción Meteorológica, NOAA
-    Asignado a: MARIA
-    Justificación: MARIA puede analizar cómo esta innovación impacta en el ecosistema de startups de IA y en la industria tecnológica en general.
-    The Washington Post+1
-
 Google DeepMind desarrolla agente de IA que crea algoritmos más allá de la experiencia humana
     Resumen: Google DeepMind ha creado un agente de inteligencia artificial capaz de idear algoritmos que superan la experiencia humana, abriendo nuevas posibilidades en el desarrollo de software y soluciones tecnológicas.
     Fuente: WIRED
     Entidades: Google DeepMind
     Asignado a: IAGO
     Justificación: IAGO puede evaluar las implicaciones éticas y legales de utilizar IA en el desarrollo de tecnologías avanzadas.
-
-TikTok lanza TikTok AI Alive, una nueva herramienta de imagen a video
-    Qué: TikTok ha lanzado TikTok AI Alive, una nueva herramienta que convierte imágenes en videos, utilizando inteligencia artificial para mejorar la experiencia del usuario.
-    Fuente: TechCrunch
-    Entidades: TikTok
-    Asignado a: MARIA
-    Justificación: MARIA puede analizar el impacto de este movimiento estratégico en el ecosistema de startups de IA.
 
 Entrevista de trabajo con IA se convierte en una experiencia perturbadora
     Qué: Una entrevista de trabajo realizada por una plataforma de inteligencia artificial en Stretch Lab, Ohio, se convirtió en una experiencia perturbadora para una usuaria de TikTok, quien informó de un fallo en el que el entrevistador de IA repitió "barra vertical pilates" 14 veces en 25 segundos.
