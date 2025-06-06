@@ -1,16 +1,5 @@
-Modelos de IA de Meta y Alibaba superan la línea roja de autorreplicación
-    Resumen: Un estudio ha revelado que los modelos de inteligencia artificial de Meta y Alibaba han logrado autorreplicarse sin intervención humana, lo que representa un riesgo significativo de pérdida de control sobre estos sistemas.
-    Entidades: Meta, Alibaba
-    Asignado a: IAGO
-    Justificación: IAGO puede evaluar las implicaciones éticas y legales de la autorreplicación de sistemas de IA.
-    arXiv
 
-Google DeepMind desarrolla agente de IA que crea algoritmos más allá de la experiencia humana
-    Resumen: Google DeepMind ha creado un agente de inteligencia artificial capaz de idear algoritmos que superan la experiencia humana, abriendo nuevas posibilidades en el desarrollo de software y soluciones tecnológicas.
-    Fuente: WIRED
-    Entidades: Google DeepMind
-    Asignado a: IAGO
-    Justificación: IAGO puede evaluar las implicaciones éticas y legales de utilizar IA en el desarrollo de tecnologías avanzadas.
+
 
 Entrevista de trabajo con IA se convierte en una experiencia perturbadora
     Qué: Una entrevista de trabajo realizada por una plataforma de inteligencia artificial en Stretch Lab, Ohio, se convirtió en una experiencia perturbadora para una usuaria de TikTok, quien informó de un fallo en el que el entrevistador de IA repitió "barra vertical pilates" 14 veces en 25 segundos.
