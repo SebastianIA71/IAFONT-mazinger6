@@ -198,6 +198,13 @@ AI Therapist Provides Support During Difficult Times
     Summary: Research suggests that AI advancements are leading to disempowerment in various sectors, creating dynamics that divide stakeholders and hinder collective action against potential threats.
    Entities: AI Industry
     Assigned to: IAGO
-    Justification: IAGO can assess the societal and ethical implications of AI-induced disempowerment.
 
+
+4. AI Used to Map Wildfire Probability in Alberta
+    Summary: Experts are utilizing AI to map wildfire probabilities in Northern Alberta, aiding in evacuation planning as wildfires continue to affect communities in the region.
+    Entities: Government of Alberta
+    Assigned to: Sebastian
+    Justification: Sebastian can explore the application of AI in environmental monitoring and disaster management.
+    ca.news.yahoo.com+1
+    Justification: IAGO can assess the societal and ethical implications of AI-induced disempowerment.
 
