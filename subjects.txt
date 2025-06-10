@@ -213,3 +213,11 @@ AI Therapist Provides Support During Difficult Times
     ft.com+1en.wikipedia.org+1
     Entities: Yoshua Bengio; OpenAI; Google; LawZero; Jaan Tallinn; Eric Schmidt; Future of Life Institute; Open Philanthropy
     Assigned to: IAGO — Ideal to dissect the ethical and regulatory risks around deceptive autonomous AI.
+
+2. AI as Autonomy Threat for Military Systems
+    Source: arXiv “Technical Risks of (Lethal) Autonomous Weapons Systems”
+    timreview.ca+2london.theaisummit.com+2reuters.com+2
+    arxiv.org
+    Entities: Defense research community
+    Assigned to: IAGO – Fit to evaluate risks in autonomous weapons and ethical warfare.
+
