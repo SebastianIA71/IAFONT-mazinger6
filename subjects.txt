@@ -221,3 +221,16 @@ AI Therapist Provides Support During Difficult Times
     Entities: Defense research community
     Assigned to: IAGO – Fit to evaluate risks in autonomous weapons and ethical warfare.
 
+4. France Launches Europe’s First AI Reasoning Model
+    Summary: French startup Mistral has released an open‑source reasoning model (“Magistral”), capable of logical chain-of-thought, backed by President Macron in a bid to strengthen Europe’s AI leadership.
+    reuters.com+1reuters.com+1
+    reuters.com
+    Entities: Mistral; President Macron; European AI ecosystem
+    Assigned to: MARIA – adept at assessing public perception and innovation in regional AI ecosystems.
+
+Nvidia & HPE Partner on Germany’s “Blue Lion” Supercomputer
+    Summary: Nvidia and HPE are building the "Blue Lion" supercomputer at Germany's Leibniz Centre using Nvidia’s latest chips, blending AI hardware and modeling to advance climate forecasting.
+    reuters.com
+    reuters.com
+    Entities: Nvidia; Hewlett Packard Enterprise; Leibniz Supercomputing Centre; German researchers
+    Assigned to: Sebastian – fit to evaluate how edge AI infrastructure supports scientific and environmental innovation.
