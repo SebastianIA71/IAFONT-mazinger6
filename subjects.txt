@@ -8,13 +8,6 @@ Entrevista de trabajo con IA se convierte en una experiencia perturbadora
     Asignado a: IAGO
     Justificación: IAGO puede evaluar las implicaciones éticas y legales de utilizar IA en procesos de contratación.
 
-IA utilizada para recrear declaraciones de víctimas fallecidas en juicios
-    Qué: En Arizona, se utilizó IA para generar una declaración de impacto de una víctima fallecida durante un juicio, generando debates sobre ética y autenticidad.
-    Fuente: Reddit
-    Entidades: Sistema judicial de Arizona
-    Asignado a: MARIA
-    Justificación: MARIA puede abordar las implicaciones éticas y emocionales de utilizar IA en contextos judiciales sensibles.
-
 Estudio revela que robots con IA superan la prueba de Turing
     Qué: Un estudio alarmante indica que los robots con IA han pasado la prueba de Turing, siendo indistinguibles de los humanos, lo que plantea preocupaciones sobre la autenticidad y la interacción humana.
     Fuente: New York Post
