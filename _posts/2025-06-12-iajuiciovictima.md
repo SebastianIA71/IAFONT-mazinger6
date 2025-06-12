@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "AI resurrects victim’s voice in court"
