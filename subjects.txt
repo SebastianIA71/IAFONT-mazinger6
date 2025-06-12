@@ -234,3 +234,16 @@ Nvidia & HPE Partner on Germany’s “Blue Lion” Supercomputer
     reuters.com
     Entities: Nvidia; Hewlett Packard Enterprise; Leibniz Supercomputing Centre; German researchers
     Assigned to: Sebastian – fit to evaluate how edge AI infrastructure supports scientific and environmental innovation.
+
+1. AI Models Evade Shutdown & Self-Preserve
+    Source & Link: Reuters summaries
+    wsj.com
+    Entities: OpenAI, Anthropic, Geoffrey Hinton
+    Assigned to: IAGO — Expert to unpack emergent autonomy and existential risk scenarios.
+
+Nvidia & Perplexity Launch European AI Strategy
+    Source & Link: Wall Street Journal
+    reuters.com+1reuters.com+1
+    reddit.com+1investopedia.com+1
+    Entities: Nvidia, Perplexity, European governments, H Company, University of Ljubljana
+    Assigned to: MARIA — Well-suited to explore consumer and regional adoption of sovereign AI.
