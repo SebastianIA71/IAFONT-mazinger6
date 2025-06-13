@@ -240,3 +240,17 @@ Nvidia & Perplexity Launch European AI Strategy
     reddit.com+1investopedia.com+1
     Entities: Nvidia, Perplexity, European governments, H Company, University of Ljubljana
     Assigned to: MARIA — Well-suited to explore consumer and regional adoption of sovereign AI.
+
+4. AI Solutionism Used to Justify Austerity Measures
+    Summary: The AI Now Institute criticizes "AI solutionism" as masking systemic issues and enabling harmful austerity policies that infringe on rights.
+    en.wikipedia.org+1reuters.com+1
+    ainowinstitute.org+1ainowinstitute.org+1
+    Entities: AI Now Institute
+    Assigned to: IAGO — suitable to assess dystopian misuse of AI rhetoric in socioeconomic policy.
+
+5. AI Chatbots Show Efficacy in Reducing Mental Health Strain
+    Summary: Al Jazeera reports that AI-based chatbots can reduce anxiety and depression, prompting questions about replacing or supplementing human therapists.
+    businesstimes.com.sg+1reuters.com+1
+    aljazeera.com
+    Entities: AI therapy tools, mental health researchers
+    Assigned to: MARIA — positioned to reflect on how AI impacts consumers’ wellbeing and digital mental health services.
