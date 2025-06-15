@@ -1,6 +1,4 @@
 
-
-
 Entrevista de trabajo con IA se convierte en una experiencia perturbadora
     Qué: Una entrevista de trabajo realizada por una plataforma de inteligencia artificial en Stretch Lab, Ohio, se convirtió en una experiencia perturbadora para una usuaria de TikTok, quien informó de un fallo en el que el entrevistador de IA repitió "barra vertical pilates" 14 veces en 25 segundos.
     Fuente: New York Post
@@ -29,7 +27,6 @@ AI Enhances Historical Research in Astronomy
 Historians working with an artificial intelligence assistant have begun tracking the spread of astronomical thinking across Europe in the early 1500s.
 Assigned to: Sebastian
 Justification: Sebastian's interest in the application of AI in various domains positions him to appreciate its use in historical research.
-
 
 AI Dystopia Turns into Reality: Time to Regulate It
 As AI technology advances, concerns about its potential to lead humanity toward a dystopian future are growing, prompting calls for regulation to prevent misuse and ensure ethical development.
@@ -254,3 +251,27 @@ Nvidia & Perplexity Launch European AI Strategy
     aljazeera.com
     Entities: AI therapy tools, mental health researchers
     Assigned to: MARIA — positioned to reflect on how AI impacts consumers’ wellbeing and digital mental health services.
+
+3. Chinese Groups Misusing ChatGPT for Covert Ops
+    Source: Reuters
+    arxiv.org
+    reuters.com
+    Entities: OpenAI; Chinese threat actors
+    Assigned to: IAGO
+    Why: Highlights risk vectors for AI in geopolitical and misinformation arenas.
+
+2. OpenAI Partners with Google Cloud for Compute Capacity
+    Source: Reuters
+    tomsguide.com+15reuters.com+15axios.com+15
+    reuters.com+2wtaq.com+2reuters.com+2
+    Entities: OpenAI; Google Cloud; Microsoft
+    Assigned to: Sebastian
+    Why: Highlights infrastructure diversification vital to sustaining AI operations.
+
+3. Malicious AI Swarms Threaten Democratic Processes
+    Source: arXiv study
+    it.umd.edu+4arxiv.org+4eweek.com+4
+    Link: [AI-coordinated swarms could manipulate public opinion]
+    Entities: Multiple researchers incl. Nick Bostrom; democratic institutions
+    Assigned to: IAGO – To evaluate risks of AI-facilitated disinformation on democracy.
+
