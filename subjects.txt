@@ -275,3 +275,21 @@ Nvidia & Perplexity Launch European AI Strategy
     Entities: Multiple researchers incl. Nick Bostrom; democratic institutions
     Assigned to: IAGO – To evaluate risks of AI-facilitated disinformation on democracy.
 
+5. Debate Over Preserving AI Prompts in Legal Records
+    Source: Reuters
+    abc.net.au
+    Entities: Morgan Lewis, legal authorities
+    Assigned to: IAGO – Raises ethical and privacy concerns about AI-generated content in sensitive professional sectors.
+
+4. Musicians Sound Alarm on Spotify AI-Generated Streaming Fraud
+    Source: ABC News
+    arxiv.org
+    reuters.com+6abc.net.au+6reuters.com+6
+    Entities: Paul Bender, Spotify, APRA AMCOS
+    Assigned to: MARIA – Highlights threats to creative industries and consumer trust from AI misuse.
+
+2. OpenAI to Continue with Scale AI After Meta Deal
+    Source: Reuters
+    reuters.com+3reuters.com+3reuters.com+3
+    Entities: OpenAI, Scale AI
+    Assigned to: Sebastian – Offers deeper insight into ecosystem diversification and collaborative compute strategies.
