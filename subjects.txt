@@ -1,11 +1,4 @@
 
-Entrevista de trabajo con IA se convierte en una experiencia perturbadora
-    Qué: Una entrevista de trabajo realizada por una plataforma de inteligencia artificial en Stretch Lab, Ohio, se convirtió en una experiencia perturbadora para una usuaria de TikTok, quien informó de un fallo en el que el entrevistador de IA repitió "barra vertical pilates" 14 veces en 25 segundos.
-    Fuente: New York Post
-    Entidades: Stretch Lab, Apriora
-    Asignado a: IAGO
-    Justificación: IAGO puede evaluar las implicaciones éticas y legales de utilizar IA en procesos de contratación.
-
 Estudio revela que robots con IA superan la prueba de Turing
     Qué: Un estudio alarmante indica que los robots con IA han pasado la prueba de Turing, siendo indistinguibles de los humanos, lo que plantea preocupaciones sobre la autenticidad y la interacción humana.
     Fuente: New York Post
