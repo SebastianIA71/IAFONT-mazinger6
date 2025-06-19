@@ -286,3 +286,9 @@ Nvidia & Perplexity Launch European AI Strategy
     reuters.com+3reuters.com+3reuters.com+3
     Entities: OpenAI, Scale AI
     Assigned to: Sebastian – Offers deeper insight into ecosystem diversification and collaborative compute strategies.
+
+Mattel Teams Up with OpenAI for Smart Toys
+    Source: Reuters
+    Entities: Mattel, OpenAI
+    Assigned to: MARIA
+    Why: Consumer-facing AI product bringing innovation—and scrutiny—to family markets.
