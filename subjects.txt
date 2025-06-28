@@ -1,11 +1,4 @@
 
-Estudio revela que robots con IA superan la prueba de Turing
-    Qué: Un estudio alarmante indica que los robots con IA han pasado la prueba de Turing, siendo indistinguibles de los humanos, lo que plantea preocupaciones sobre la autenticidad y la interacción humana.
-    Fuente: New York Post
-    Entidades: Investigadores en IA
-    Asignado a: IAGO
-    Justificación: IAGO puede analizar las consecuencias filosóficas y sociales de la IA que imita perfectamente el comportamiento humano.
-
 AI Is Already Dystopic: Reddit Discussion Highlights Concerns
 A Reddit discussion emphasizes the current dystopian aspects of AI, including manipulation of attention and the need for mindfulness to counteract technological overreach.
 Assigned to: IAGO
