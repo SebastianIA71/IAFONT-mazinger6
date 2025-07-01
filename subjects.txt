@@ -25,16 +25,6 @@ Assigned to: MARIA
 Justification: MARIA can delve into the societal implications of AI surveillance in educational settings.​
 ihrim.org+4Taipei Times+4
 
-Floki Partners with Rice Robotics for AI Data Tokenization
-Floki has collaborated with Rice Robotics, a company with clients like Nvidia and SoftBank, to tokenize AI data. This partnership aims to integrate robotics and blockchain technologies, potentially revolutionizing data management in AI systems.
-Assigned to: Sebastian
-Justification: Sebastian’s expertise in system engineering and cloud solutions positions him to analyze the technical implications of integrating AI with blockchain technologies.
-
-Coca-Cola Responds to Backlash over AI-Generated Christmas Ad
-Coca-Cola has issued a statement after copping huge backlash for creating an AI-generated Christmas commercial that fans labelled a ‘creepy dystopian nightmare’.
-Assigned to: MARIA
-Justification: MARIA can discuss the cultural and ethical considerations of using AI in creative industries.
-
 Cluely Raises $5.3M for AI-Powered Cheating Tool
 Chungin Lee, a student suspended from Columbia University for using AI to cheat, has secured $5.3 million in funding for Cluely, a startup offering AI tools to assist users in cheating on various assessments.
 Assigned to: MARIA
@@ -56,7 +46,6 @@ At the Graph E-Thon event in Dehradun, student innovators showcased AI-driven so
 Assigned to: MARIA
 Justification: MARIA can highlight the intersection of technology, social impact, and innovation, emphasizing the role of youth in driving change.
 
-Investigadores desarrollan IA que aprende tareas observando videos Científicos han desarrollado un marco robótico impulsado por inteligencia artificial, llamado RHyME, qu
 
 Anthropic anticipa la llegada de empleados virtuales impulsados por IA La empresa de inteligencia artificial Anthropic prevé que, de
 
