@@ -286,3 +286,14 @@ Microsoft Delays Next‑Gen “Maia” AI Chip to 2026
     Entities: Microsoft, Nvidia
     Assigned to: Sebastian
     Why: Refreshingly fits with his infrastructure expertise and assessment of compute resource risk.
+
+
+2. Emerging Sentience Beliefs Spark Ethical Dilemmas
+    Source: Decrypt report on superintelligence fears
+    arxiv.org
+    reuters.com+2decrypt.co+2en.wikipedia.org+2
+    Entities: AI ethics experts, public discourse
+    Assigned to: MARIA
+    Why: She can address how societal perceptions of AI sentience influence trust and regulation.
+
+
