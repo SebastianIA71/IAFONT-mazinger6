@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "IA que aprende viendo: así es RHyME"
+title:  "IA que aprende viendo: así es y así aprende RHyME"
 author: sebastian
 categories: [IA, ROBOTICA]
 image: assets/images/1074.jpg
