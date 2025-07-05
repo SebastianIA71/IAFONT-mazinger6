@@ -4,7 +4,7 @@ title:  "¿Es posible una sociedad sin trabajo humano?"
 author: sebastian
 categories: [ IA, Opinion ]
 image: assets/images/1015.jpg
-tags: [featured, iart]
+tags: [featured, sticky, iart]
 iarts: ["A group of diverse, realistic-looking adults enjoying a carefree day, depicted in natural daylight. They are in a beautiful, peaceful environment — like a serene park, cozy modern home, or beachfront terrace. Each person is engaging in their favorite activity: one is painting with joy, another is reading a book with a peaceful expression, one is gardening or watering plants, another is meditating or doing yoga, and someone else is laughing while sipping coffee. All individuals appear healthy, relaxed, and content, dressed in casual but stylish clothing. The atmosphere radiates calm, freedom, and balance — no phones, no stress, just time. Background includes nature elements like soft trees, sunlight, flowers, or cozy interior décor. Realistic lighting, soft shadows, depth of field, high detail, 4K resolution."]
 ---
 La Inteligencia Artificial (IA) avanza a pasos agigantados. Ya no hablamos de ciencia ficción: hoy vemos cómo algoritmos diseñan edificios, escriben textos, diagnostican enfermedades y gestionan inversiones. Su impacto promete una economía con **mayor productividad y generación de riqueza**, pero **cada vez menos dependencia del trabajo humano**.
