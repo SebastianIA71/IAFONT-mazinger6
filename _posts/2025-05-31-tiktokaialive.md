@@ -4,7 +4,7 @@ title:  "TikTok AI Alive: Image-to-Video Gets a Glamtech Upgrade"
 author: maria
 categories: [IA, TECH, DIGITAL ART]
 image: assets/images/3002.jpg
-tags: [portada, featured, iart]
+tags: [featured, iart]
 iarts: ["A futuristic TikTok studio with holographic screens, users editing AI-generated videos from static images, bright and trendy atmosphere"]
 ---
 
