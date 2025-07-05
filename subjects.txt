@@ -285,3 +285,25 @@ Microsoft Delays Next‑Gen “Maia” AI Chip to 2026
     Assigned to: MARIA
     Why: She’ll reflect on societal and privacy implications as digital systems extend to welfare and urban governance.
 
+
+5. Call for “Guillotine” Security Layer to Contain Rogue AI
+    Source: arXiv paper
+    en.wikipedia.org+1en.wikipedia.org+1
+    arxiv.org+4arxiv.org+4arxiv.org+4
+    Entities: James Mickens; Sarah Radway; Ravi Netravali
+    Assigned to: Sebastian
+    Why: He’ll evaluate technical isolation strategies like hypervisor-based containment in the context of AI infrastructure resilience.
+
+5. OpenAI Shifts Some Compute to Google TPUs
+    Source: Reuters
+    businessinsider.com+15reuters.com+15reuters.com+15
+    reuters.com+1reuters.com+1
+    Entities: OpenAI; Google Cloud; Nvidia; Anthropic; Apple
+    Assigned to: Sebastian
+    Why: He’ll evaluate how shifting compute platforms alters competitive compute ecosystems and vendor dependencies.
+
+1. EU Confirms No Delay to AI Act Implementation
+    Source: Reuters
+    Entities: European Commission; Alphabet (Google); Meta; Mistral; ASML
+    Assigned to: Sebastian
+    Why: He can assess how regulatory timing impacts infrastructure planning and EU market readiness.
