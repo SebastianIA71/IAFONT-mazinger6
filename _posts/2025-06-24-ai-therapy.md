@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AI Therapy: Digital Compassion in 2025"
+title:  "AI Therapy: Talking about Digital Compassion in 2025"
 author: maria
 categories: [LIFESTYLE]
 image: assets/images/1071.jpg
