@@ -26,7 +26,7 @@ Ya están explorándose en iniciativas como “Project Vend”, donde Claude ges
 
 Con 30 años en informática, tecnología y banca, constatamos que no se trata de reemplazar, sino de **rediseñar procesos**. Estos agentes pueden asumir tareas repetitivas y análisis de datos, mientras los humanos nos enfocamos en:
 
-- Creatividad,
+- Creatividad ,
 - Liderazgo,
 - Toma de decisiones,
 - Relaciones interpersonales.
