@@ -101,9 +101,7 @@ description: "Descrpción"
                 {% if second_post.image %}
                 <div class="col-md-4 ">
                 <a href="{{site.baseurl}}{{second_post.url}}">
-<!--                 <img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{ second_post.image | absolute_url }}{% endif %}" height="100" width="100" alt="{{ second_post.title }}">-->
-                 <img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{site.baseurl}}/{{ second_post.image }}{% endif %}" height="100" width="100" alt="{{ second_post.title }}">
-
+                 <img class="w-100" src="{% if second_post.image contains "://" %}{{ second_post.image }}{% else %}{{site.baseurl}}/{{ second_post.image }}{% endif %}" height="100"  alt="{{ second_post.title }}">
                 </a>
                 </div>
                 {% endif %}                
