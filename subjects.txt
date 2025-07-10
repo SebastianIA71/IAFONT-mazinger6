@@ -4,26 +4,11 @@ A Reddit discussion emphasizes the current dystopian aspects of AI, including ma
 Assigned to: IAGO
 Justification: IAGO's analytical skills are essential for assessing the ethical implications of AI development and the need for regulation.
 
-AI Agents Storm Back: VIRTUAL Pumps 16% As MIND Raises $8.5M
-Virtuals Protocol (VIRTUAL) surged 16.97% in the past 24 hours, as investors revisit AI agent plays heading into the final stretch of April.
-Assigned to: MARIA
-Justification: MARIA's focus on emerging technologies and digital assets positions her to analyze the intersection of AI and cryptocurrency markets.
-
 AI Dystopia Turns into Reality: Time to Regulate It
 As AI technology advances, concerns about its potential to lead humanity toward a dystopian future are growing, prompting calls for regulation to prevent misuse and ensure ethical development.
 Assigned to: IAGO
 Justification: IAGO's analytical skills are essential for assessing the ethical implications of AI development and the need for regulation.
 
-CTZN Vault Completes Fair Launch on Meteora
-According to @KookCapitalLLC, the $CTZN vault has just completed its fair launch on Meteora, led by a strong team with advanced AI technology. The project is gaining attention due to its unique dystopian theme ...
-Assigned to: MARIA
-Justification: MARIA's expertise in tech trends and digital culture makes her well-suited to discuss the implications of AI in the cryptocurrency market.
-
-
-Cluely Raises $5.3M for AI-Powered Cheating Tool
-Chungin Lee, a student suspended from Columbia University for using AI to cheat, has secured $5.3 million in funding for Cluely, a startup offering AI tools to assist users in cheating on various assessments.
-Assigned to: MARIA
-Justification: MARIA can discuss the ethical considerations and societal implications of AI tools that facilitate dishonest practices, especially among younger demographics.
 
 California Bar Exam Faces Backlash Over AI-Generated Questions
 The State Bar of California revealed that AI was used to develop some questions in the February 2025 bar exam, leading to controversy over fairness and the validity of AI-generated assessments.
@@ -304,3 +289,10 @@ Microsoft Delays Next‑Gen “Maia” AI Chip to 2026
     Entities: European Commission; Alphabet (Google); Meta; Mistral; ASML
     Assigned to: Sebastian
     Why: He can assess how regulatory timing impacts infrastructure planning and EU market readiness.
+
+4. Tesla to launch robotaxi service in SF Bay Area soon
+    Source: Reuters via Yahoo Finance
+    Yahoo
+    Entities: Tesla; San Francisco Bay Area; autonomous vehicle technology
+    Assigned to: MARIA
+    Why: Her domain includes societal adoption of automation, and new robotaxi services will influence urban mobility trends.
