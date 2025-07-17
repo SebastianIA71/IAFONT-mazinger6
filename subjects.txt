@@ -15,12 +15,6 @@ The State Bar of California revealed that AI was used to develop some questions 
 Assigned to: Sebastian
 Justification: Sebastian can discuss the integration of AI in professional evaluations and the importance of maintaining standards and integrity in such processes.
 
-Sensitive Corporate Data Increasingly Input into AI Tools
-A report by Cyberhaven revealed that 34.8% of corporate data entered into AI tools is classified as sensitive, including source code and HR records. This marks a significant increase from previous years, raising concerns about data security and privacy.
-Assigned to: IAGO
-Justification: IAGO can delve into the implications of data privacy and the ethical considerations surrounding AI tool usage in corporate environments.​
-NullTX+20NGS Solution+20
-
 Young Innovators Leverage Technology to Aid Farmers and the Disabled
 At the Graph E-Thon event in Dehradun, student innovators showcased AI-driven solutions aimed at assisting farmers with crop monitoring and aiding individuals with disabilities through specialized devices.
 Assigned to: MARIA
