@@ -47,6 +47,16 @@ A diferencia de un chatbot, Scientist AI no busca agradar ni improvisar; su func
 
 Este enfoque pretende evitar que la IA aprenda a **ocultar comportamientos peligrosos para superar auditorías**.
 
+<div class="video-gallery">
+  <div class="video-item">
+    <video width="560" height="315" controls>
+      <source src="https://sebastiania71.github.io/IAFONT-mazinger6/assets/images/1082.mp4">      
+      Your browser does not support the video tag.
+    </video>
+  </div>
+</div>
+---
+
 ---
 
 ### Qué podemos hacer como sociedad y profesionales  
@@ -74,3 +84,4 @@ Su independencia de agendas comerciales y su foco exclusivo en la investigación
 
 **3. ¿Puedo colaborar o apoyar LawZero?**  
 Sí, desde su web oficial ([lawzero.org](https://lawzero.org/)) ofrecen vías para donaciones, voluntariado y divulgación.  
+
