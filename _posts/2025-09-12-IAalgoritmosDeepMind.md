@@ -10,7 +10,7 @@ iarts: ["AI futuristic abstract illustration of algorithms evolving beyond human
 
 # IA que crea algoritmos más allá de la experiencia humana
 
-La noticia de que **Google DeepMind** ha desarrollado un agente de inteligencia artificial (IA) capaz de diseñar algoritmos que superan a los creados por expertos humanos marca un hito sin precedentes en la historia de la informática. Según [WIRED](https://www.wired.com/story/google-deepminds-ai-agent-dreams-up-algorithms-beyond-human-expertise/?utm_source=chatgpt.com) y [The Economic Times](https://economictimes.indiatimes.com/tech/technology/google-deepminds-ai-agent-dreams-up-algorithms-beyond-human-expertise/articleshow/112665628.cms), este avance abre la puerta a un futuro donde las máquinas no solo ejecutan instrucciones, sino que también **inventan nuevas formas de resolver problemas**.  
+La noticia de que **Google DeepMind** ha desarrollado un agente de inteligencia artificial (IA) capaz de diseñar algoritmos que superan a los creados por expertos humanos marca un hito sin precedentes en la historia de la informática. Según [WIRED](https://www.wired.com/story/google-deepminds-ai-agent-dreams-up-algorithms-beyond-human-expertise/?utm_source=chatgpt.com) y The Economic Times, este avance abre la puerta a un futuro donde las máquinas no solo ejecutan instrucciones, sino que también **inventan nuevas formas de resolver problemas**.  
 
 ## Un salto evolutivo en la programación
 
