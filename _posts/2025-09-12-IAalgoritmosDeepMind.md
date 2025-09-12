@@ -4,7 +4,7 @@ title:  "IA que crea algoritmos más allá de la experiencia humana"
 author: iago
 categories: [IA, OPINION]
 image: assets/images/1100.jpg
-tags: [portada, featured, iart]
+tags: [featured]
 iarts: ["AI futuristic abstract illustration of algorithms evolving beyond human capability, glowing neural networks and code fragments, cinematic lighting, freepik prompt"]
 ---
 
