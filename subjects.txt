@@ -1,3 +1,5 @@
+FTC orders AI companies to hand over info about chatbots' impact on kids and teens
+
 
 AI Is Already Dystopic: Reddit Discussion Highlights Concerns
 A Reddit discussion emphasizes the current dystopian aspects of AI, including manipulation of attention and the need for mindfulness to counteract technological overreach.
@@ -49,13 +51,7 @@ OpenAI afirma que puede reconstruir GPT-4 con solo 5 a 10 ingenieros: Gracias a 
 
 CEO de Scale AI advierte sobre la necesidad de que EE. UU. mantenga el ritmo con China en IA: Alexandr Wang, CE
 
-MIT presenta nuevo modelo para optimizar sistemas coordinados complejos
-    Resumen: Investigadores del MIT han desarrollado un marco unificador que puede ayudar a los científicos a combinar ideas existentes para mejorar modelos de IA o crear nuevos, utilizando diagramas para representar interacciones en sistemas multipartitos.
-    Fuente: MIT News
-    Entidades: Massachusetts Institute of Technology (MIT)
-    Asignado a: Sebastian
-    Justificación: Sebastian puede proporcionar una visión sobre cómo la automatización afecta a las estructuras laborales y educativas.
-    MIT News
+
 
 3. Google DeepMind desarrolla agente de IA que crea algoritmos más allá de la experiencia humana
     Resumen: Google DeepMind ha creado un agente de inteligencia artificial capaz de idear algoritmos que superan la experiencia humana, abriendo nuevas posibilidades en el desarrollo de software y soluciones tecnológicas.
