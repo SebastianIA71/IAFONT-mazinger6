@@ -1,3 +1,14 @@
+
+20250929
+OpenAI CEO Sam Altman's AI warning: Superintelligence is coming faster than you think
+    Source / Link: Times of India
+    The Times of India
+    Entities: OpenAI, Sam Altman
+    Character: IAGO
+        Rationale: This is a forward‑looking warning about reaching thresholds. IAGO concerns himself with when capabilities outpace control.
+
+
+
 FTC orders AI companies to hand over info about chatbots' impact on kids and teens
 
 
@@ -17,11 +28,6 @@ The State Bar of California revealed that AI was used to develop some questions 
 Assigned to: Sebastian
 Justification: Sebastian can discuss the integration of AI in professional evaluations and the importance of maintaining standards and integrity in such processes.
 
-Young Innovators Leverage Technology to Aid Farmers and the Disabled
-At the Graph E-Thon event in Dehradun, student innovators showcased AI-driven solutions aimed at assisting farmers with crop monitoring and aiding individuals with disabilities through specialized devices.
-Assigned to: MARIA
-Justification: MARIA can highlight the intersection of technology, social impact, and innovation, emphasizing the role of youth in driving change.
-
 Debate sobre la normalización de la IA como tecnología cotidiana: Arvind Narayanan propone en su nuevo artículo una visión de la inteligencia artificial como una “tecnología normal”, en c
 
 La IA mejora la navegación marítima con modelos explicables:
@@ -32,8 +38,6 @@ VIA SMARTPHONE
 
 https://www.nature.com/articles/d41586-025-01123-x
 
-Líderes de IA predicen la llegada de robots colaboradores en el lugar de trabajo:
-
 Preocupaciones sobre la invasión de ‘contenido basura’ generado por IA en la cultura:
 
 Debate sobre la creación de una ‘divinidad artificial’ por parte de Elon Musk
@@ -43,31 +47,7 @@ La empresa de inteligencia artificial Artisan ha lanzado una campaña publicitar
 
 Película '2073' utiliza imágenes reales para crear una visión distópica del futuro: El cineasta Asif Kapadia ha creado '2073', un documental que combina imágenes reales para ilustrar un futuro distópico afectado por el cambio climático y 
 
-ONG advierte sobre el sistema británico de predicción de asesinatos: Una organización no gubernamental ha calificado de "escalofriante y distópico" el uso de tecnología por parte del gobierno británico para predecir posibles asesinos, planteando preocu
-
-Alphabet y Nvidia invierten en la startup de IA de Ilya Sutskever: Alphabet y Nvidia han invertido en Safe Superintelligence (SSI), una startup de inteligencia artificial cofundada por Ilya Sutskever, ex científico jefe de OpenAI. SSI, 
-
-OpenAI afirma que puede reconstruir GPT-4 con solo 5 a 10 ingenieros: Gracias a los avances logrados con su último modelo, GPT-4.5, Open
-
 CEO de Scale AI advierte sobre la necesidad de que EE. UU. mantenga el ritmo con China en IA: Alexandr Wang, CE
-
-
-
-3. Google DeepMind desarrolla agente de IA que crea algoritmos más allá de la experiencia humana
-    Resumen: Google DeepMind ha creado un agente de inteligencia artificial capaz de idear algoritmos que superan la experiencia humana, abriendo nuevas posibilidades en el desarrollo de software y soluciones tecnológicas.
-    Fuente: WIRED
-    Entidades: Google DeepMind
-    Asignado a: IAGO
-    Justificación: IAGO puede evaluar las implicaciones éticas y legales de utilizar IA en el desarrollo de tecnologías avanzadas.
-    @EconomicTimes+1WIRED+1
-
-4. Amazon desarrolla robot con sentido del tacto impulsado por IA
-    Resumen: Amazon ha creado un robot que incorpora inteligencia artificial para dotarlo de sentido del tacto, mejorando su capacidad para interactuar con objetos y entornos de manera más humana.
-    Fuente: WIRED
-    Entidades: Amazon
-    Asignado a: MARIA
-    Justificación: MARIA puede analizar el impacto de este avance en el ecosistema de startups de IA.
-    BBC+7Al Jazeera+7Encyclopedia Britannica+7
 
 5. OpenAI y FDA mantienen conversaciones sobre el uso de IA en la evaluación de medicamentos
     Resumen: OpenAI y la Administración de Alimentos y Medicamentos de EE. UU. están en conversaciones para explorar cómo la inteligencia artificial puede utilizarse en la evaluación de medicamentos, lo que podría revolucionar los procesos de aprobación farmacéutica.
@@ -75,14 +55,6 @@ CEO de Scale AI advierte sobre la necesidad de que EE. UU. mantenga el ritmo con
     Entidades: OpenAI, FDA
     Asignado a: IAGO
     Justificación: IAGO puede evaluar las implicaciones éticas y legales de utilizar IA en la evaluación de medicamentos.
-
-5. Estudio de frontera revela que sistemas de IA han superado la línea roja de autorreplicación
-    Resumen: Un estudio reciente muestra que sistemas de IA de frontera han superado la línea roja de autorreplicación, lo que podría llevar a una población incontrolada de IAs y plantea riesgos severos para la humanidad.
-    Fuente: arXiv
-    Entidades: Meta, Alibaba
-    Asignado a: IAGO
-    Justificación: IAGO puede evaluar las implicaciones éticas y legales de utilizar IA en la autorreplicación.
-    arXiv
 
 3. Anthropic experimenta una gran demanda de sus modelos de IA en el Reino Unido
     Resumen: Anthropic, una startup de inteligencia artificial fundada por exejecutivos de OpenAI, está experimentando una demanda significativa de sus modelos de IA en el Reino Unido, lo que marca un crecimiento impresionante en la región. La compañía planea expandirse creando 100 nuevos puestos en Europa, incluyendo Londres.
