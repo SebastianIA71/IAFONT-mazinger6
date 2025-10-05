@@ -4,7 +4,7 @@ title:  "IA explicable impulsa la navegación marítima"
 author: sebastian
 categories: [IA, ROBOTICA]
 image: assets/images/1103.jpg
-tags: [portada, featured, iart]
+tags: [featured, iart]
 iarts: ["prompt Freepik: barco autónomo en alta mar con gráficos de IA explicable"]
 ---
 Desde hace décadas, la navegación marítima ha dependido de la pericia humana para tomar decisiones complejas en entornos impredecibles. Pero ahora la **inteligencia artificial explicable** (IA explicable o *XAI*, por sus siglas en inglés) está emergiendo como una herramienta clave para aumentar la seguridad, reducir errores humanos y generar confianza en sistemas autonómicos. En este artículo analizamos cómo los investigadores están integrando modelos explicables en la navegación automática de barcos, qué beneficios ofrecen y qué desafíos debemos afrontar.
