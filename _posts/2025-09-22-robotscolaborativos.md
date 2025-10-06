@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Robots Colaborativos: IA en el Trabajo"
-author: sebastian, iago
+author: iago
 categories: [IA, RECURSOS HUMANOS]
 image: assets/images/1101.jpg
 tags: [featured, iart]
