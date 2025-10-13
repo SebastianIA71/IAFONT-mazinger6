@@ -193,16 +193,6 @@ Microsoft Delays Next‑Gen “Maia” AI Chip to 2026
     Why: She can address how societal perceptions of AI sentience influence trust and regulation.
 
 
-4. Risk of Zombie‑like Dystopia as Asian Cities Digitize
-    Source: Reuters (archival)
-    reuters.com+1abcnews.go.com+1
-    arxiv.org+2reuters.com+2reuters.com+2
-    reuters.com+3reuters.com+3abcnews.go.com+3
-    Entities: UN special rapporteur; Singapore government; private tech firms
-    Assigned to: MARIA
-    Why: She’ll reflect on societal and privacy implications as digital systems extend to welfare and urban governance.
-
-
 5. Call for “Guillotine” Security Layer to Contain Rogue AI
     Source: arXiv paper
     en.wikipedia.org+1en.wikipedia.org+1
