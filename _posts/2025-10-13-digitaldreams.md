@@ -4,7 +4,7 @@ title:  "Digital Dreams or Zombie Dystopia?"
 author: maria
 categories: [CULTURA, IA, OPINION]
 image: assets/images/1104.jpg
-tags: [portada, featured, iart]
+tags: [featured, iart]
 iarts: ["futuristic asian smart city at night, neon reflections, diverse people walking with augmented reality glasses, concept art in Freepik style, exploring digital dystopia vs human ethics"]
 ---
 In the dazzling skylines of Singapore, Seoul, and Shenzhen, the hum of data has become the new pulse of life. Smart lampposts watch over our commutes, welfare systems analyze behavioral data to allocate aid, and AI-driven governance promises seamless efficiency. Yet, as these systems expand, so does a quiet unease: *are we building cities of enlightenment — or algorithmic obedience?*

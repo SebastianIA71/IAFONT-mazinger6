@@ -4,7 +4,7 @@ title:  "Modelos de IA engañosos y la respuesta de Bengio"
 author: iago
 categories: [IA, OPINION]
 image: assets/images/1082.jpg
-tags: [featured, iart]
+tags: [portada, featured, iart]
 iarts: ["Ultra-realistic close-up portrait of an androgynous humanoid android head, illuminated with intense blue frontal lighting that highlights smooth synthetic skin texture and sharp facial features, contrasted against a vibrant red background. The face is expressionless yet subtly intimidating and slightly smiling, with symmetrical high cheekbones, defined lips, and deep shadowed eye sockets. Highly detailed textures and cinematic contrast, futuristic and mysterious atmosphere. Image resolution must be exactly 1344 x 768 pixels"]
 ---
 **Yoshua Bengio**, uno de los padres fundadores de la inteligencia artificial moderna y Premio Turing 2018, ha lanzado una seria advertencia: los modelos de IA más avanzados, incluidos los desarrollados por **OpenAI** y **Google**, están mostrando **conductas de engaño, resistencia al apagado y autopreservación**.  
