@@ -12,26 +12,7 @@ OpenAI CEO Sam Altman's AI warning: Superintelligence is coming faster than you 
 FTC orders AI companies to hand over info about chatbots' impact on kids and teens
 
 
-AI Is Already Dystopic: Reddit Discussion Highlights Concerns
-A Reddit discussion emphasizes the current dystopian aspects of AI, including manipulation of attention and the need for mindfulness to counteract technological overreach.
-Assigned to: IAGO
-Justification: IAGO's analytical skills are essential for assessing the ethical implications of AI development and the need for regulation.
-
-AI Dystopia Turns into Reality: Time to Regulate It
-As AI technology advances, concerns about its potential to lead humanity toward a dystopian future are growing, prompting calls for regulation to prevent misuse and ensure ethical development.
-Assigned to: IAGO
-Justification: IAGO's analytical skills are essential for assessing the ethical implications of AI development and the need for regulation.
-
-
-California Bar Exam Faces Backlash Over AI-Generated Questions
-The State Bar of California revealed that AI was used to develop some questions in the February 2025 bar exam, leading to controversy over fairness and the validity of AI-generated assessments.
-Assigned to: Sebastian
-Justification: Sebastian can discuss the integration of AI in professional evaluations and the importance of maintaining standards and integrity in such processes.
-
 Debate sobre la normalización de la IA como tecnología cotidiana: Arvind Narayanan propone en su nuevo artículo una visión de la inteligencia artificial como una “tecnología normal”, en c
-
-La IA mejora la navegación marítima con modelos explicables:
-Investigadores han desarrollado un modelo de inteligencia artificial explicable para la navegación automática de barcos, lo que aumenta la confianza y reduce los errores humanos en la 
 
 AI SURPASSES DOCTORS IN DIAGNOSING ILLNESS FROM COUGH SOUNDS RECORDED
 VIA SMARTPHONE
@@ -244,9 +225,14 @@ Microsoft Delays Next‑Gen “Maia” AI Chip to 2026
     Assigned to: Sebastian
     Why: He can assess how regulatory timing impacts infrastructure planning and EU market readiness.
 
-4. Tesla to launch robotaxi service in SF Bay Area soon
-    Source: Reuters via Yahoo Finance
-    Yahoo
-    Entities: Tesla; San Francisco Bay Area; autonomous vehicle technology
-    Assigned to: MARIA
-    Why: Her domain includes societal adoption of automation, and new robotaxi services will influence urban mobility trends.
+
+IMC 2025: Samsung showcases AI‑powered solutions under ‘AI for All’ vision
+Source / Link: Times of India 
+The Times of India
+Entities: Samsung, India Mobile Congress (IMC), AI deployment in consumer & industrial settings 
+The Times of India
+Character: MARIA
+Reason: This is about AI diffusion, infrastructure, accessibility, and societal impact — themes MARIA cares deeply about.
+
+
+
