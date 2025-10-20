@@ -3,7 +3,7 @@ layout: post
 title:  Apple Intelligence ¿La IA Definitiva?
 author: sebastian
 categories: [IA, OPINION]
-image: assets/images/1105.jpg
+image: assets/images/1105.jpeg
 tags: [featured, iart]
 iarts: [A photorealistic, cinematic image representing the concept of Apple Intelligence. The central focus is a luminous, abstract brain-like neural network, glowing with light trails in a sophisticated palette of cool blues, whites, and subtle rainbow gradients, evoking Apple's design language. This glowing structure is overlaid on a softly blurred background showing the screens of an iPhone and a MacBook, displaying minimalist, clean user interface elements. The overall atmosphere is futuristic, clean, and highly sophisticated, with sharp focus on the central AI element and a beautiful bokeh effect in the background. Avoid any human figures. The composition should be centered and wide-angled. Image size must be exactly 1344 x 768 pixels.]
 ---
