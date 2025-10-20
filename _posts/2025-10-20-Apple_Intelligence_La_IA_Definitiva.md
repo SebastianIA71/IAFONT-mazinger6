@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Apple Intelligence: ¿La IA Definitiva?
+title:  Apple Intelligence ¿La IA Definitiva?
 author: sebastian, iago
 categories: [IA, OPINION]
 image: assets/images/2024.jpg
