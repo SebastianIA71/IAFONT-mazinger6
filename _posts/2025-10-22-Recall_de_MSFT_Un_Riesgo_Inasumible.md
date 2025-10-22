@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Recall de MSFT ¿Un Riesgo Inasumible?
-author: sebastian, iago
+author: iago
 categories: [IA, OPINION]
 image: assets/images/2025-10-22-Recall_de_MSFT_Un_Riesgo_Inasumible.jpg
 tags: [featured, iart]
