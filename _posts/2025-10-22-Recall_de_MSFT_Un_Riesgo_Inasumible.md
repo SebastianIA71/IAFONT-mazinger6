@@ -4,7 +4,7 @@ title:  Recall de MSFT ¿Un Riesgo Inasumible?
 author: sebastian, iago
 categories: [IA, OPINION]
 image: assets/images/2025-10-22-Recall_de_MSFT_Un_Riesgo_Inasumible.jpg
-tags: [portada, featured, iart]
+tags: [featured, iart]
 iarts: [Create a photorealistic, cinematic image with dimensions of 1344x768 pixels. The scene is a vast, surreal library with an epic scale. The towering shelves are not filled with books, but with millions of glowing, ethereal orbs and intricate glass cubes. Each orb and cube contains a shimmering, abstract representation of a digital memory. In the center of the grand hall, a lone, silhouetted figure stands, looking up at the endless archive of light, conveying a sense of awe and being overwhelmed. Dramatic volumetric light rays cut through the slightly hazy atmosphere, illuminating the scene with a mix of cool blues and warm golds. The image should be hyper-detailed, with a focus on the texture of the shelves and the luminosity of the orbs.]
 ---
 
