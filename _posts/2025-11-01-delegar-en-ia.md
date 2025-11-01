@@ -4,7 +4,7 @@ title:  "Cuando delegar en la IA se convierte en una trampa silenciosa"
 author: sebastian, iago
 categories: [IA, OPINION]
 image: assets/images/2025-11-01-delegar-en-ia.jpg
-tags: [portada, featured, iart]
+tags: [featured, iart]
 iarts: ["futuristic office scene showing a manager observing a glowing AI interface while team members review data charts; symbolism of control and responsibility; cinematic light; 50mm lens; professional tone; Freepik style"]
 ---
 
