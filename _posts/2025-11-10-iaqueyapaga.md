@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "¿Está tu empresa usando la IA que ya paga?"
-author: sebastian, iago
+author: iago
 categories: [IA, RECURSOS HUMANOS, OPINION]
 image: assets/images/2025-11-10-iaqueyapaga.jpg
 tags: [featured]
