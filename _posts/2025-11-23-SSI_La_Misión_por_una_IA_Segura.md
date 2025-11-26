@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  SSI La Misión por una IA Segura
-author: [iago]
+author: iago
 categories: [IA, OPINION]
 image: assets/images/2025-11-23-SSI_La_Misión_por_una_IA_Segura.jpg
 tags: [featured, iart]
