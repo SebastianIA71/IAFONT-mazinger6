@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Nightshade La Revancha del Artista
-author: [sebastian]
+author: sebastian
 categories: [IA, ARTE DIGITAL, OPINION]
 image: assets/images/2025-10-25-Nightshade_La_Revancha_del_Artista.jpg
 tags: [featured, iart]
