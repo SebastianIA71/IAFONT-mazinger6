@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cuando delegar en la IA se convierte en una trampa silenciosa"
-author: sebastian, iago
+author: sebastian
 categories: [IA, OPINION]
 image: assets/images/2025-11-01-delegar-en-ia.jpg
 tags: [featured, iart]
