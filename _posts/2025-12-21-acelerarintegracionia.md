@@ -1,19 +1,16 @@
 ---
 layout: post
 title: "Acelerar la integración de la IA"
-author: sebastian, iago
+author: sebastian
 categories: [IA, OPINION, EDUCACION]
 image: assets/images/2025-12-21-acelerarintegracionia.jpg
 tags: [featured]
 iarts: ["Escena distópica con empleados de oficina usando inteligencia artificial integrada en su trabajo diario, pantallas holográficas, ambiente corporativo futurista, tono ligeramente irónico, estilo realista con toque de humor"]
 ---
-
-# Acelerar la integración de la IA en la empresa
-
 Estamos continuamente intentando **incluir la inteligencia artificial (IA)** en nuestro puesto de trabajo. Pilotos, pruebas controladas, pequeños automatismos, asistentes “de apoyo”… y aun así, la sensación se repite: *la IA está, pero no termina de calar*.  
 La pregunta correcta ya no es si la IA encaja en la empresa, sino **cómo podemos ser más disruptivos y acelerar de verdad su integración en el día a día**.
 
-Desde una perspectiva construida tras más de treinta años en informática, tecnología y banca, hay una conclusión clara: **la IA no se adopta por decisión, se adopta por necesidad**. Y esa necesidad no surge sola, hay que provocarla.
+Para nosotros, hay una conclusión clara: **la IA no se adopta por decisión, se adopta por necesidad**. Y esa necesidad no surge sola, hay que provocarla.
 
 ## El primer freno: querer encajar la IA en procesos antiguos
 
