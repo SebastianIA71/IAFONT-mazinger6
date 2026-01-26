@@ -10,7 +10,7 @@ iarts: ["Imagen distópica con toque de humor sobre una empresa tradicional inte
 
 En muchas organizaciones la pregunta ya no es *si* adoptar inteligencia artificial, sino *cómo* hacerlo sin poner en riesgo la operativa diaria. Y aquí surge una duda legítima: **¿podemos incorporar IA sin rediseñar los procesos existentes?** La respuesta honesta es sí. Es posible. Pero hacerlo así limita drásticamente su impacto.
 
-Desde nuestra experiencia —acumulada tras años de proyectos tecnológicos, organizativos y de automatización en entornos complejos— lo vemos con claridad: **la IA aplicada sobre procesos antiguos genera mejoras incrementales; la IA integrada en procesos rediseñados genera efectos multiplicativos**. La diferencia no es tecnológica, es estructural.
+Desde nuestra experiencia, lo vemos con claridad: **la IA aplicada sobre procesos antiguos genera mejoras incrementales; la IA integrada en procesos rediseñados genera efectos multiplicativos**. La diferencia no es tecnológica, es estructural.
 
 ---
 
