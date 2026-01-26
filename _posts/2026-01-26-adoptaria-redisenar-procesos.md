@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "¿Puede una empresa adoptar IA sin rediseñar procesos?"
-author: sebastian, iago
+author: iago
 categories: [IA, OPINION, EDUCACION]
 image: assets/images/2026-01-26-adoptaria-redisenar-procesos.jpg
 tags: [featured]
